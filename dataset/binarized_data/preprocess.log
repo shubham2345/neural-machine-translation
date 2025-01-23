@@ -1,0 +1,14 @@
+Namespace(no_progress_bar=False, log_interval=100, log_format=None, log_file=None, aim_repo=None, aim_run_hash=None, tensorboard_logdir=None, wandb_project=None, azureml_logging=False, seed=1, cpu=False, tpu=False, bf16=False, memory_efficient_bf16=False, fp16=False, memory_efficient_fp16=False, fp16_no_flatten_grads=False, fp16_init_scale=128, fp16_scale_window=None, fp16_scale_tolerance=0.0, on_cpu_convert_precision=False, min_loss_scale=0.0001, threshold_loss_scale=None, amp=False, amp_batch_retries=2, amp_init_scale=128, amp_scale_window=None, user_dir=None, empty_cache_freq=0, all_gather_list_size=16384, model_parallel_size=1, quantization_config_path=None, profile=False, reset_logging=False, suppress_crashes=False, use_plasma_view=False, plasma_path='/tmp/plasma', criterion='cross_entropy', tokenizer=None, bpe=None, optimizer=None, lr_scheduler='fixed', scoring='bleu', task='translation', source_lang='fr', target_lang='en', trainpref='dataset/bpe_data/train.bpe', validpref='dataset/bpe_data/valid.bpe', testpref='dataset/bpe_data/test.bpe', align_suffix=None, destdir='dataset/binarized_data', thresholdtgt=0, thresholdsrc=0, tgtdict=None, srcdict=None, nwordstgt=-1, nwordssrc=-1, alignfile=None, dataset_impl='mmap', joined_dictionary=True, only_source=False, padding_factor=8, workers=4, dict_only=False)
+[fr] Dictionary: 53144 types
+[fr] dataset/bpe_data/train.bpe.fr: 154498 sents, 3544225 tokens, 0.0% replaced (by <unk>)
+[fr] Dictionary: 53144 types
+[fr] dataset/bpe_data/valid.bpe.fr: 887 sents, 22256 tokens, 0.0315% replaced (by <unk>)
+[fr] Dictionary: 53144 types
+[fr] dataset/bpe_data/test.bpe.fr: 1664 sents, 36832 tokens, 0.0272% replaced (by <unk>)
+[en] Dictionary: 53144 types
+[en] dataset/bpe_data/train.bpe.en: 154498 sents, 3289110 tokens, 0.0% replaced (by <unk>)
+[en] Dictionary: 53144 types
+[en] dataset/bpe_data/valid.bpe.en: 887 sents, 21831 tokens, 0.0229% replaced (by <unk>)
+[en] Dictionary: 53144 types
+[en] dataset/bpe_data/test.bpe.en: 1664 sents, 34593 tokens, 0.00867% replaced (by <unk>)
+Wrote preprocessed data to dataset/binarized_data

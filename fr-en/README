@@ -1,0 +1,143 @@
+# IWSLT 2013 evaluation campaign: training/development data
+
+# # Copyright: TED Conference LLC
+# # License: Creative Commons Attribution-NonCommercial-NoDerivs 3.0
+
+# For each language pair x-y, the in-domain parallel training data is
+# provided through the following files:
+
+# train.tags.x-y.x
+# train.tags.x-y.y
+
+# They include transcripts and manual translations of the talks
+# available at the TED website for each pair x-y in June 2013. The talks
+# included in the development (and forthcoming evaluation) sets have been
+# removed.
+
+# The transcripts are given as pure text (UTF8 encoding), one or more
+# sentences per line, and are aligned (at language pair level, not
+# across pairs). The simplified set of characters is employed for
+# Chinese text. No segmentation/preprocessing has been applied to Arabic
+# nor to Chinese.
+
+# Monolingual training data is included in the file:
+
+# train.x
+# train.y
+
+# while for tuning/development purposes, the following files are
+# released:
+
+# IWSLT13.TED.dev2010.x-y.x.xml
+# IWSLT13.TED.dev2010.x-y.y.xml
+# IWSLT13.TED.tst2010.x-y.x.xml
+# IWSLT13.TED.tst2010.x-y.y.xml
+
+# with the exception of the pair Slovenian-English for which only one
+# development set (dev2012) is released.
+
+# Below further information about released files is provided.
+
+# --------------------------------------------------------------------
+# The files:
+
+# train.tags.x-y.x
+# train.tags.x-y.y
+
+# include the talks allowed to be used for training, and some metadata;
+# in particular, for each talk meta information is provided in between
+# the following tags:
+
+# <url> ... </url>
+# <description> ... </description>
+# <keywords> ... </keywords> (*)
+# <talkid> ... </talkid>
+# <title> ... </title>
+
+# (*) keywords are missing for some talks.
+
+# The transcripts/translations are provided in between the tags:
+
+# <transcript> ... </transcript>
+
+
+# --------------------------------------------------------------------
+# The file:
+
+# train.x
+# train.y
+
+# includes monolingual plain texts, without any meta information.
+
+# --------------------------------------------------------------------
+# The files:
+
+# IWSLT13.TED.dev2010.x-y.x.xml
+# IWSLT13.TED.dev2010.x-y.y.xml
+# IWSLT13.TED.tst2010.x-y.x.xml
+# IWSLT13.TED.tst2010.x-y.y.xml
+# IWSLT13.TED.dev2012.sl-en.sl.xml
+# IWSLT13.TED.dev2012.sl-en.en.xml
+
+# contain transcripts and manual translations of the talks included in
+# the dev/test sets of the MT track of previous editions of the IWSLT
+# evaluation campaign. They are intended to be used for
+# tuning/development purposes in IWSLT 2013 evaluation campaign.
+
+# Here the lists of talks they consist of:
+
+# dev2010:
+# talkid	url
+# 69      video.ted.com/[...]/WadeDavis_2003.mp4
+# 93      video.ted.com/[...]/BarrySchwartz_2005G.mp4
+# 129     video.ted.com/[...]/BlaiseAguerayArcas_2007.mp4
+# 227     video.ted.com/[...]/CraigVenter_2008.mp4
+# 453     video.ted.com/[...]/ElizabethGilbert_2009.mp4
+# 457     video.ted.com/[...]/DavidMerrill_2009.mp4
+# 531     video.ted.com/[...]/BrianCox_2009U.mp4
+# 535     video.ted.com/[...]/AlGore_2009.mp4
+
+# tst2010:
+# talkid	url
+# 767     video.ted.com/[...]/BillGates_2010.mp4
+# 769     video.ted.com/[...]/AimeeMullins_2009P.mp4
+# 779     video.ted.com/[...]/DanielKahneman_2010.mp4
+# 783     video.ted.com/[...]/GaryFlake_2010.mp4
+# 785     video.ted.com/[...]/JamesCameron_2010.mp4
+# 790     video.ted.com/[...]/DanBarber_2010.mp4
+# 792     video.ted.com/[...]/EricMead_2009P.mp4
+# 799     video.ted.com/[...]/JaneMcGonigal_2010.mp4
+# 805     video.ted.com/[...]/RobertGupta_2010U.mp4
+# 824     video.ted.com/[...]/MichaelSpecter_2010.mp4
+# 837     video.ted.com/[...]/TomWujec_2010U.mp4
+
+# dev2012 (only for Slovenian-English pair):
+# talkid	url
+# 1327	video.ted.com/[...]/AlaindeBotton_2011G.mp4
+# 1286	video.ted.com/[...]/DamonHorowitz_2011.mp4
+# 1289	video.ted.com/[...]/AnnieMurphyPaul_2011G.mp4
+# 1322	video.ted.com/[...]/DrewBerry_2011X.mp4
+# 1270	video.ted.com/[...]/AlexanderTsiaras_2010P.mp4
+# 1312	video.ted.com/[...]/AJJacobs_2011P.mp4
+# 1288	video.ted.com/[...]/KarenTse_2011G.mp4
+# 1309	video.ted.com/[...]/SheilaNirenberg_2011P.mp4
+# 1297	video.ted.com/[...]/YoavMedan_2011P.mp4
+# 1280	video.ted.com/[...]/PhilPlait_2011X.mp4
+
+
+# The released files are in xml format. Each talk defines a single
+# document, for which the following tags are provided:
+
+# <url>: the url of the page with the text
+# <description>: a brief description of the talk
+# <keywords>: keywords of the talk
+# <talkid>: a numeric identfier of the talk
+# <title>: the title of the talk
+
+# Text is segmented in sentences. Segments can include more than a
+# single sentence. Segments of files *.x-y.x.xml and *.x-y.y.xml are
+# aligned.
+
+# UTF8 encoding is used.  The simplified set of characters is employed
+# for Chinese text. No segmentation/preprocessing has been applied to
+# Arabic nor to Chinese.
