@@ -1,0 +1,1648 @@
+H-0	-0.5586872100830078	Now everyone is talking about happiness .
+H-1	-0.600668728351593	There &apos;s somebody who wanted to count the number of books published in the last five years , whose title contained &quot; happiness . &quot; He gave up at the end of the 1860s , there were many more .
+H-2	-0.5220406651496887	The theme of happiness is becoming trendy among researchers .
+H-3	-1.4020323753356934	There are plenty of technical techniques of more happiness .
+H-4	-0.5288276076316833	Everybody wants to make others happier .
+H-5	-0.6442083120346069	But despite the countless amount of work , it goes forward to cognitive traps that prevent a decent view of happiness .
+H-6	-0.5689262747764587	My talk today will remain mostly on these cognitive traps .
+H-7	-1.123164415359497	He &apos;ll interest the Sherpas who are thinking about their own happiness , but also the scholars who think about happiness , because , in the end , we &apos;re all just as Although we &apos;re all getting distracted with each other .
+H-8	-0.6817612051963806	The first trap is the rejection of complexity .
+H-9	-0.3147624731063843	This is from the fact that the word &quot; happiness &quot; is simply no longer a useful word , because we use it for too many things .
+H-10	-0.32887178659439087	In my view , we could limit it to a special meaning , but ultimately it &apos;s a path to give up and we &apos;re going to have to adopt the most complex notion of what well @-@ being is .
+H-11	-0.47581687569618225	The second cognitive trap is the confusion between the lived and memory : it &apos;s just the difference between being happy in your life and being happy with your life , or with your life .
+H-12	-1.335239291191101	And these two concepts are very different , and they &apos;re mixed in the notion of &quot; top @-@ up . &quot;
+H-13	-0.6015793681144714	The third one is the &quot; flow bias , &quot; and that is this unfortunate phenomenon that cannot consider any event affecting our well @-@ being well @-@ being .
+H-14	-0.3121955990791321	I mean , that &apos;s a real cognitive catch .
+H-15	-0.39307889342308044	It &apos;s impossible to perceive it properly .
+H-16	-0.4717647135257721	I &apos;m going to take the example now of a person who testified after one of my lectures .
+H-17	-0.653079092502594	He told him he had listened to a symphony and she was so fabulous and everything at the end of reading , there was this horrible sparkling sound in it .
+H-18	-0.4678526222705841	And he said , quite moved , that it had ruined the whole experience .
+H-19	-0.3880268931388855	But no !
+H-20	-0.5985258221626282	These are the memories of the experience that had been hollowed out .
+H-21	-0.8439860939979553	He had lived this experience .
+H-22	-0.5123211145401001	He &apos;d had 20 minutes of fantastic music .
+H-23	-0.7620970010757446	They were no longer valuable , because what was left was a recollection ; the memory was damn damn damn , and that remember , that was all he had left .
+H-24	-0.4916902184486389	It teaches us , basically , that we can only perceive ourselves and other entities in two distinct entities .
+H-25	-0.6186000108718872	There &apos;s one of the experiences that we experience , who lives in the present and knows the present , he &apos;s able to revive the past , but basically everything he has is , is the present .
+H-26	-0.6137537956237793	It &apos;s this experience that we experience the physician approaching -- you know , when the doctor says , &quot; Is it bad if I touch you here ? &quot;
+H-27	-0.5438506007194519	And then there is the self that remembers , and this is the one holding the accounts , and saves the history of our life , and that is him whose doctor is approaching and asking : How do you feel in the last few days ? &quot;
+H-28	-0.5655133724212646	or &quot; How did your living in Albania ? &quot; or things like that .
+H-29	-0.392503947019577	Those two entities are very different , the self of experience and the self of memory and confuse them is one of the sources of the problem in the notion of happiness .
+H-30	-0.6649724841117859	The self of remembering is a storyteller in storytelling .
+H-31	-0.48309534788131714	And it really starts with an elementary reflex of our memory -- that &apos;s immediately happening .
+H-32	-0.47751760482788086	We don &apos;t just tell stories , when we begin to tell a story .
+H-33	-0.44801437854766846	It &apos;s our memory that tells us stories , in fact , what we hold back in our life is a story .
+H-34	-0.3205292820930481	And let me start with an example .
+H-35	-0.4314401149749756	He went from an old study .
+H-36	-0.848845362663269	Real patients have been having an painful operation .
+H-37	-0.46541962027549744	I &apos;m not going to go into detail . It &apos;s not painful now , but it was at the time of this study , back in the 1990s .
+H-38	-0.14084796607494354	They were asked to describe their pain every 60 seconds .
+H-39	-0.7134703397750854	Here &apos;s the recording .
+H-40	-0.4184108376502991	two patients .
+H-41	-0.2533826529979706	The question is , &quot; Which one suffered the most ? &quot;
+H-42	-0.3190154731273651	It &apos;s a very simple question .
+H-43	-0.37992918491363525	It &apos;s clear that the patient B suffered more .
+H-44	-0.6978087425231934	His colonoscopy took longer , and for every minute of suffering for the patient A , B suffered too , but more .
+H-45	-0.4270344078540802	But here &apos;s a second question : &quot; How bad do these patients feel they &apos;ve suffered ? &quot;
+H-46	-0.5272766351699829	And here &apos;s a surprise : This is that the patient A has a much worse recollection of the colonoscopy than the patient B .
+H-47	-0.8025409579277039	And the wake @-@ up of all was different , a very important point of these stories is how they ended up -- and none of these experiments were pleasant or motivating -- but one of them can distinguish themselves .
+H-48	-0.8777233958244324	but one of them is getting worse than the other .
+H-49	-0.5024884343147278	And the worst one is where the pain hits a peak at the very end .
+H-50	-0.5145747065544128	It &apos;s a bad story .
+H-51	-0.28649649024009705	How do we know that ?
+H-52	-0.568793773651123	Because we asked these people , just after their colonoscopy , and also for a long time , &quot; Finally , how hard was it ? &quot;
+H-53	-0.5866052508354187	And it had worse memories than B .
+H-54	-0.3489045202732086	In fact , it &apos;s a direct conflict between the self of experience and the self of the memory .
+H-55	-0.6897713541984558	From the &quot; self of experience , &quot; clearly , B spent a little more time .
+H-56	-0.8020585179328918	Now , what we could have done with the patient A , and , in fact , we &apos;ve done medical tests , it &apos;s been done and it &apos;s been done and it &apos;s been working , we &apos;ve been able to extend the duration of the patient &apos;s protein . Just keep the tube in there , not too much the tube in it .
+H-57	-0.7216933965682983	It has to do with the patient pain , but just a little pain , and much less than it has ever been before .
+H-58	-0.7210739254951477	In doing that for a few minutes , you will get the production of &quot; me of the patient &quot; experience &quot; and a net improvement for its &quot; self of remember , &quot; because now you &apos;ve provided the patient A better history about what he lived .
+H-59	-0.29374635219573975	What defines a story ?
+H-60	-0.5644066333770752	And that is true of the stories that are provided from us by our memory , such as stories that we create .
+H-61	-0.47307533025741577	What defines a story is the changes &#91; unclear &#93; , the important moments and the end .
+H-62	-0.3783811330795288	The end will be very , very meaningful and , in this example , the end will determine everything .
+H-63	-0.7244570255279541	So , the &quot; me of the experience &quot; lives its life in continuity .
+H-64	-0.7251697182655334	Basically , he does the experiments , one after the others .
+H-65	-0.458210825920105	And if you ask what happens at those moments ,
+H-66	-0.6622554063796997	The answer is pretty straightforward :
+H-67	-0.33413904905319214	They &apos;re forever lost .
+H-68	-0.4695190489292145	I mean , most of the moments in our life -- and I &apos;ve computing -- psychological present is about three seconds .
+H-69	-0.6563923358917236	Which means , in fact , there are about 600 million of them in a lifetime .
+H-70	-0.44798484444618225	In a month , it &apos;s about 600,000 .
+H-71	-0.46577900648117065	Most of them don &apos;t leave any record .
+H-72	-0.37408819794654846	Most of them are completely ignored by our &quot; me . &quot;
+H-73	-0.4855201840400696	But still , sometimes you realize that they should count , that what happens in those moments when we live an experience is our life .
+H-74	-0.488738089799881	It &apos;s the finite resource we use in our lives on Earth .
+H-75	-0.6334567666053772	And the way to use it , it seems appropriate , but it &apos;s not the story that our &quot; self of keeping . &quot;
+H-76	-0.5485203862190247	Finally , we have our &quot; remember &quot; and our &quot; experience &quot; and they &apos;re really quite different .
+H-77	-0.3631795048713684	The biggest difference between them is time perception .
+H-78	-0.479826956987381	From the perspective of your &quot; experience , &quot; if you &apos;re on holiday , and then the second week happens as well as the first week , then those two weeks of vacation will be twice as good as a single week .
+H-79	-0.7154313921928406	That &apos;s not the way it &apos;s going on for our &quot; self of remember . &quot;
+H-80	-0.6376248598098755	For him , two @-@ week vacation , it &apos;s going to be better than just one week because no memory is added .
+H-81	-0.3420652747154236	You haven &apos;t changed the story .
+H-82	-0.6518499851226807	From this point , time is actually the capital variable that distinguishes our &quot; me &quot; from our &quot; experience . &quot;
+H-83	-0.5429032444953918	Time has only little impact on this story .
+H-84	-0.5422108173370361	And the &quot; me of the memory &quot; makes much more memorize and telling stories .
+H-85	-0.6878395080566406	In fact , it &apos;s him making decisions because , if you &apos;ve had a patient who &apos;s suffered , say , a couple of different surgeons and has to decide which one he chooses to choose , well the one he chooses is the one whose memories are least bad , that &apos;s the surgeon who will choose .
+H-86	-0.547324538230896	The &quot; self of experience &quot; doesn &apos;t have a word to say in that choice .
+H-87	-0.3157440721988678	In fact , we don &apos;t choose between experiments , actually .
+H-88	-0.44893917441368103	we choose between the memories of these experiences .
+H-89	-0.24902911484241486	And even when we think about the future , we usually don &apos;t think about it in terms of experiments .
+H-90	-0.5237558484077454	We think about our future anticipating memories .
+H-91	-0.7821963429450989	You can think of this just as an tyranny of &quot; me of the &quot; and call yourself &quot; me the &quot; me of remembering &quot; as training the &quot; self of experience &quot; through experiences that the &quot; self of experience &quot; doesn &apos;t require .
+H-92	-0.6798570156097412	I feel like when we go on holiday it &apos;s very common , which is to say we &apos;re on vacation , in a way , on our orders of &quot; me &quot; to remember . &quot;
+H-93	-0.38072100281715393	And , I think , it &apos;s kind of hard to justify .
+H-94	-0.6890256404876709	In short , how much of our memories do we feed ?
+H-95	-0.4983847737312317	This is one of the explanations that &apos;s advanced for the domination of our &quot; me of the memory . &quot;
+H-96	-0.6290497779846191	And it makes me think about vacation that we had spent in Antarctica a few years ago , which was clearly the best holidays I ever had , and I think back quite often , compared to the number of times I think were a few years ago , compared to the number of times I think .
+H-97	-0.5648806095123291	to my other holidays . I probably consumed my memories of being three weeks , for , I would say , about 25 minutes for the last four years .
+H-98	-0.4572497606277466	After , if I had opened up once the album that had 600 photos in it , I would have spent one more hour there .
+H-99	-0.5563192963600159	It went on for three weeks and eventually it &apos;s only one hour and a half to the most .
+H-100	-1.0522536039352417	That sounds alarming .
+H-101	-0.600176215171814	It &apos;s possible that I &apos;m not representative of the average , which is something that I feel very little about the consumption of my memories . But even if you have more than I am , a fundamental question is asking :
+H-102	-0.3941163122653961	Why do we give as much weight to our memories , compared to what we give our experiences ?
+H-103	-0.4577541649341583	I want you to think about a brain experience .
+H-104	-0.8467086553573608	Imagine that in your next holiday , at the end of the holidays , all of your pictures are destroyed , and you &apos;ll raise a compressed that makes you feel deformed , so you can &apos;t remember .
+H-105	-0.6484449505805969	From then on , you would choose the same type of vacation ?
+H-106	-0.3941152095794678	And if you were making another choice , there would be a conflict between your two entities , and you have to think about how to negotiate this conflict , and that &apos;s not really obvious , because if you think in terms of time you will have an answer .
+H-107	-0.4049524962902069	And if you think in terms of memories , you could get another answer .
+H-108	-0.7597266435623169	Why are we choosing the holidays we &apos;re going to go , this is a problem that takes us in front of a choice between me .
+H-109	-0.6307587623596191	Both &quot; me &quot; send us to two notions of happiness .
+H-110	-0.3416158854961395	There are really two designs of happiness that apply to each other .
+H-111	-0.6242577433586121	So we ask ourselves , &quot; How happy is this ? &quot;
+H-112	-0.4047926366329193	How happy are these moments in the life of &quot; me &quot; experience ?
+H-113	-0.5577211976051331	They are all of them -- the happiness of the moment is a rather complex process .
+H-114	-0.36972859501838684	What are the emotions that you can quantify ?
+H-115	-0.596137285232544	By the way , now we have a clear idea of what the happiness of the &quot; me &quot; experience over time .
+H-116	-0.5838981866836548	If you think about the happiness of &quot; me &quot; of memories , it &apos;s a whole other story .
+H-117	-0.45590490102767944	It &apos;s got nothing to do with having a happy life .
+H-118	-0.5017321705818176	But how happy we are , or happy , thinking about our lives .
+H-119	-1.4678622484207153	top of all very different .
+H-120	-0.367721289396286	Nobody who doesn &apos;t see these two notions is about to miss the study of happiness , and I &apos;m in the crowd of students of well @-@ being students who failed the study of happiness for a long time , precisely that way .
+H-121	-0.6682512760162354	The distinction between the happiness of our &quot; experience &quot; and the satisfaction of our &quot; me , &quot; was only to understand that very recently , and there are plans now to measure the two more commonly . The Gallup organization made a poll with 500,000 people asking them what they thought of their lives and their experiences .
+H-122	-0.6519325375556946	And there were other actions in that sense .
+H-123	-0.581051230430603	In the last few years , we &apos;ve started learning about happiness in both of me . &quot;
+H-124	-0.48662495613098145	In my view , the main lesson we &apos;ve learned is that these two entities are very different .
+H-125	-0.6524890065193176	You can see that a person is satisfied with her life , but it doesn &apos;t tell you very much about the degree of happiness with which she lives her life , and inversely .
+H-126	-0.3434431850910187	Just to give you a sense of correlation , the correlation is about five .
+H-127	-0.5573062300682068	It &apos;s like you meet someone who tells you that his father is two meters . What can you say about the size of this person ?
+H-128	-0.4019262492656708	Well , you &apos;ve got an indication , but there &apos;s a high degree of uncertainty .
+H-129	-0.23691357672214508	You have so much uncertainty .
+H-130	-0.6061705946922302	If I told you that a person reading his eight out of 10 life , you &apos;re going to have a lot of uncertainty to estimate the level of happiness in &quot; me of experience . &quot;
+H-131	-0.5968648791313171	So the correlation is weak .
+H-132	-0.6258915662765503	We know a little bit about what controls happiness satisfaction .
+H-133	-0.6513996124267578	We know money has a big place , goals as well .
+H-134	-0.5590791702270508	We know that happiness comes mostly from people we enjoy , from the time we spend with them .
+H-135	-0.5578110814094543	There are other pleasures , but this stand @-@ out point .
+H-136	-0.345459908246994	So if you want to maximize happiness from both &quot; me , &quot; you &apos;re going to end up doing very different things .
+H-137	-0.49981793761253357	The point of my point is that we really shouldn &apos;t think of happiness as a proxy for well @-@ being .
+H-138	-0.5701883435249329	Those are two very different notions .
+H-139	-0.5324999094009399	To make a long story short , another reason that keeps us from having the very clear ideas about happiness is that we don &apos;t care about the same things when we think about life or when we live it .
+H-140	-0.45417264103889465	If you ask the simple question of how happy people are , you &apos;re not going to have a correct answer .
+H-141	-0.3637605309486389	When you ask this question , you think people must be happier in California , than say , in Ohio .
+H-142	-0.3622997999191284	And the thing is , when you think about life in California , you think of the contrast between California and other places , and contrast , say , is in the climate .
+H-143	-0.5591540932655334	Well , it turns out the climate is not very important to the &quot; me of the experience &quot; not anymore than &quot; me thinking &quot; to the &quot; self that decides &quot; and decides if people are happy .
+H-144	-1.102936029434204	But , well , since this is the &quot; me thinking , &quot; which is the command , you &apos;ll probably want to get more warming from moving to California .
+H-145	-0.5740808844566345	It would be interesting , to follow those who move to California , in hopes to be happier .
+H-146	-0.4866352379322052	In fact , their &quot; me &quot; will not be happier .
+H-147	-0.7359791994094849	We &apos;re all aware of it .
+H-148	-0.8722078800201416	But it will happen one thing : They &apos;ll be convinced to be happier . Because , when they denounce , they &apos;ll raise the wrong time in Ohio .
+H-149	-0.36641108989715576	And they thought they &apos;d made the right decision .
+H-150	-0.5403304100036621	It &apos;s very difficult to evaluate well @-@ being . I hope I showed you how difficult that is .
+H-151	-0.1452779322862625	Thank you .
+H-152	-0.3134876787662506	Thank you . I have a question to ask you .
+H-153	-0.15563331544399261	Thank you very much .
+H-154	-0.42874860763549805	A few weeks ago , we talked on the phone , told me that the Gallup poll had provided some pretty interesting results .
+H-155	-0.4408593773841858	Can you tell us more now than you have a little time left ?
+H-156	-0.2554358243942261	Of course .
+H-157	-0.7260667085647583	In my view , the most significant outcome discovered through this interview is a number , which we never expected until we found .
+H-158	-0.6048699617385864	We found this about the &quot; self @-@ experience . &quot;
+H-159	-0.47022485733032227	When we looked at how happiness is moving depending on income .
+H-160	-0.4107416868209839	And it turned out that under 60,000 dollars a year , for Americans , and it was a very important sample , around 600,000 , it was a very representative sample , under 600,000 dollars a year ...
+H-161	-1.1006758213043213	60,000 60,000 .
+H-162	-1.1006758213043213	60,000 60,000 .
+H-163	-0.35192540287971497	60,000 dollars a year , people are unhappy , and they make more miserable .
+H-164	-0.32253143191337585	The bottom line of happiness is absolutely flat .
+H-165	-0.5594578385353088	Frankly , I &apos;ve never seen such a flat line .
+H-166	-0.5974279642105103	You clearly see that money doesn &apos;t buy you happy experiences , but miss yourself killing you for sure the misery , and you can quantify that misery in a very good way .
+H-167	-0.6290149688720703	The other thing , the &quot; me &quot; to remember , is a whole other story .
+H-168	-0.3161557614803314	The more money you make , the more satisfied you are .
+H-169	-0.28521087765693665	It doesn &apos;t work for emotions .
+H-170	-1.2694859504699707	Now Danny , the USA &apos;s rise is all based on life , liberty and happiness research .
+H-171	-0.4047447741031647	If we give credit to this research , they look like they &apos;re going against everything we believe , for example , taxes and so on .
+H-172	-0.5632779002189636	Is there any chance that leaders , that the country , as a whole , takes such discovery seriously and put on policies based on it ?
+H-173	-0.5823919773101807	I think the role of research on happiness is known in public policy .
+H-174	-0.45397529006004333	That recognition is slow in the United States , for sure , but in England it &apos;s happening , and it &apos;s also in other countries .
+H-175	-0.7568162679672241	People recognize that they have to take into account happiness when they sit on public policy .
+H-176	-0.6555085182189941	It &apos;s going to take a while , we &apos;re going to debate it , if we want to experiment with it , if we want to study happiness , or if we want studies of life &apos;s evaluation . We need to start this conversation very quickly . How do we improve happiness flow in ways other ways than thinking and think about &quot; me &quot; or the &quot; me &quot; experience . &quot;
+H-177	-0.4251505732536316	It &apos;s going to influence the political decisions , I think , in the next few years .
+H-178	-0.5065142512321472	In the United States , efforts are set out to measure the experience of population happiness .
+H-179	-0.4851255714893341	It will be , in my view , in 10 or 20 years , include in national statistics .
+H-180	-0.4547572135925293	Well , it turns out to me that this problem is going to be , or at least should be , the most interesting political debate to be in the next few years .
+H-181	-0.16095277667045593	Thank you very much for the invention of behavioral economics .
+H-182	-0.7903210520744324	Thank you Daniel mass . I &apos;d like to share with you a discovery I made a few months ago while I was writing a Wired Magazine article .
+H-183	-0.6134767532348633	I still have my lexicon for the synonymous under my hand when I write , but I &apos;d already gone into the article and realized I &apos;d never , in my life , looked at the word &quot; disabled &quot; to see what I &apos;d find .
+H-184	-0.5580372214317322	Let me read you the input .
+H-185	-2.5513298511505127	&quot; top of course , &quot; as &quot; business , rise , blind , broken , broken , injured , injured , catching , injured , hearty , power , domestic , helpless , depressed , depressed , disabled , shiny , shiny , bloody , warming -- getting rid of the side , getting rid of it , getting hurt and weak .
+H-186	-0.6672672033309937	healthy , strong , capable . &quot;
+H-187	-0.7549093961715698	I was reading this list high @-@ voice to a friend and at first I was laughing , but I just did , &quot; mutilated &quot; and my voice broke , and I had to stop getting rid of the emotional shock and the impact that these words would change .
+H-188	-1.9387447834014893	You know , of course , this is my old dictionary , actually an older dictionary , in a extreme one .
+H-189	-0.6314762830734253	I &apos;m thinking this must be an old date of feeling , OK .
+H-190	-0.4085017442703247	But actually , the date of feeling was in the early &apos; 80s , when I had to start primary school and form an understanding of myself outside the family cell and related to other kids and the world around me .
+H-191	-0.428506076335907	And needless to say that God thank God I didn &apos;t use this dictionary then .
+H-192	-0.8865589499473572	I mean , from this entry , it looks like I was born in a world that &apos;s been born in a world that &apos;s almost nothing to them , while , in fact , today , I &apos;m celebrated for the opportunities and the adventures my life has brought me .
+H-193	-0.8915114998817444	So I immediately went and looked back in the book of 2009 waiting for me to see a notable review .
+H-194	-0.858620822429657	This is the back @-@ up version of this facility .
+H-195	-0.2620846927165985	Unfortunately , it &apos;s not much better .
+H-196	-0.806070864200592	I find the last two words under &quot; particularly disturbing , &quot; whole &quot; and &quot; healthy . &quot;
+H-197	-0.3958625793457031	So , it &apos;s not just a story of words .
+H-198	-0.4584104120731354	That &apos;s what we think about people when we name them with these words .
+H-199	-0.47119393944740295	These are the values behind the words , and how we build these values .
+H-200	-0.3929428160190582	Our language influences our thinking and our way of looking at the world and seeing others .
+H-201	-0.9460443258285522	In fact , a lot of ancient societies , including the Greeks and the Romans , believed that a mass curse was very powerful , because saying the thing to the high voice made it exist .
+H-202	-0.7731804847717285	So what reality do we want to make existing , one person that &apos;s limited , or one person who has skill ?
+H-203	-1.1396695375442505	As a child , you know , by dragging something as simple as calling a child , a child , we could actually delete and boiling their power .
+H-204	-0.8264845609664917	Do we not want to start opening doors ?
+H-205	-1.3366177082061768	One of those people , who opened the doors , was my pediatrician at the put @-@ up institute in the soft institute .
+H-206	-1.557230830192566	His name is Dr. set up .
+H-207	-0.4288158714771271	A Italian @-@ American , whose name , apparently , was too difficult to utter for most Americans , so he became Dr. P .
+H-208	-0.47416648268699646	And Dr. P was still wearing a very colorful butterfly and having the most perfect temperaments for working with kids .
+H-209	-1.3519209623336792	I almost loved everything that I &apos;ve spent in this hospital , except for my sessions in set up .
+H-210	-0.65672367811203	I had to do what I felt like the laundry rehearsal with these big rubber bands -- different colors -- to help build the muscles from my legs .
+H-211	-0.3049735128879547	And I just hated those rubber bands more than anything .
+H-212	-0.5517024993896484	I hated them , I &apos;ll kick them up . I hated them .
+H-213	-0.4484633207321167	And you know , I was already negotiating , at five , with Dr. P to try not to exercise these exercise anymore , obviously not successfully .
+H-214	-0.6668158769607544	And one day he came up to my session -- poster specifications and no pity -- and he said , &quot; Whoa . Aimee , you &apos;re really a dear , powerful little girl , I think you &apos;re going to break one of these rubber bands .
+H-215	-0.5916943550109863	When you multiply it , I &apos;ll give you a hundred dollars . &quot;
+H-216	-0.5283692479133606	Of course , it was just a major strategy from Dr. P &#91; unclear &#93; to make me do those exercises that I didn &apos;t want to do in perspective to become the five @-@ year @-@ old girl on the floor , but what he really did for me was to transform an awful terrible , everyday event into a new , promising experience .
+H-217	-0.41296300292015076	And I ask myself today , in how much of his vision , and the fact that he declared me a strong , powerful girl , drew my own vision of myself far into the future , as a person by strong , powerful and athletic .
+H-218	-0.3640555441379547	This is an example of how adults , in the position of power , can wake up the power of a child .
+H-219	-0.806438148021698	But , in the previous examples of entries for these dictionaries of Economics , our language allows us not to evolve in the reality that we all wish , the possibility for an individual to consider ourselves to be able .
+H-220	-0.3736533224582672	Our language did not follow the changes in our society , many of which were brought by technology .
+H-222	-0.4946928322315216	Now , maybe technology reveals to us more clearly now what has always been : that everyone has something rare and powerful to offer our society , and that the ability for human adaptation is our greatest asset .
+H-223	-0.28526178002357483	Human ability to adapt , interestingly , because people have always wanted to talk to me about defeat adversity , and I &apos;m going to make a confession .
+H-224	-0.47440868616104126	That sentence never appealed to me and I &apos;m always embarrassed when I ask questions about this topic , and I think I &apos;m beginning to understand why .
+H-226	-0.4083036482334137	But in fact , we &apos;re changed . We &apos;re tagged , of course , by challenging , whether physically or emotionally or both .
+H-227	-0.5441226363182068	And I want to say that &apos;s a good thing .
+H-228	-0.6303828358650208	adversity is not a barrier that we have to get around in order to get back in our lifetime .
+H-229	-0.32814767956733704	It &apos;s part of our life .
+H-230	-0.2964417338371277	And I tend to think of it as my shadow .
+H-231	-0.38903123140335083	Sometimes I see it in big numbers , sometimes in short , but it &apos;s still with me .
+H-232	-0.42254042625427246	And of course , I &apos;m not trying to lower the impact here , weight , test of one person .
+H-233	-0.460881769657135	There is adversity and challenge in life , and all of this is very real and connected to every person , but the question is not if you &apos;re going to or not meet adversity , but how you &apos;re going to meet it .
+H-234	-0.624430239200592	Now , our responsibility is not simply to protect from adversity , but to prepare them so that they can be elevated .
+H-235	-0.4398003816604614	And we &apos;re not making our kids service when we make them feel that they &apos;re not prepared to adapt .
+H-236	-0.425752729177475	There is a difference and a big distinction between medical fact that I &apos;m amputated and the subjective social opinion of saying whether or not I &apos;m disabled .
+H-237	-0.47721341252326965	And really , the only real and repeated disability I had to face is that the world always thinks I can match those definitions .
+H-238	-0.4967527985572815	In our desire to protect those we like by giving them the naked and cold truth about what medical looked like , or , in fact , it looked like the quality of life that they can expect , we have to make sure we don &apos;t ask them the first brick of a wall that &apos;s actually going to satisfy one person .
+H-239	-0.6472108960151672	Maybe the existing model , just to look at what &apos;s broken in you and how we &apos;re going to fix it , is turning more attractive to the individual than pathology itself .
+H-240	-0.7596799731254578	By not taking the person at all , recognizing not her potential , we &apos;re creating another disease in addition to any other natural experience than they can have before .
+H-241	-0.5518258810043335	We really refer to people based on their value for our community .
+H-242	-0.44628772139549255	So we have to see beyond pathology and the range of human capacities .
+H-243	-0.8621042966842651	And , most importantly , there is a partnership between those perceived odds and the best of our creative ability .
+H-244	-0.7616694569587708	It &apos;s not about minimize , or denying , those painful moments such as something to prevent or dismiss , but rather to find the hidden chances in adversity .
+H-245	-0.7863070964813232	So maybe the idea that I want to spread is , not so much to defeat adversity , that we can open up to her and fight with her , to use a term of set @-@ up , maybe dance with her .
+H-246	-0.5200321674346924	And , perhaps , if we see adversity as natural , regular and useful , its presence is less than a burden .
+H-247	-0.5690277814865112	This year we &apos;ll be set up by Charles Darwin &apos;s birthday , and this was 150 years ago when he was writing about evolution , which Darwin illustrated , I think , a truth about human character .
+H-248	-0.5593780279159546	To paraphrase , it &apos;s not the hardest of the species that survives , or the smartest species , is the one that is most capable of adapting to change .
+H-249	-0.18251848220825195	The conflict is the genesis of creation .
+H-250	-0.29305973649024963	From the work of Darwin , among others , we can recognize that human ability to survive and thrive is driven by human spirit struggle , through conflict , towards transformation .
+H-251	-0.5812132358551025	So again , transforming , adaptation , is the largest gift of man .
+H-252	-0.5375344753265381	And , perhaps , until we &apos;ve been test , we don &apos;t know what we &apos;re made of .
+H-253	-0.4333091974258423	Maybe that &apos;s what adversity is giving us , a sense of self , a sense of our own power .
+H-254	-0.5608712434768677	So , we can make a gift .
+H-255	-0.5850780606269836	We can violate adversity as something more than just difficult times .
+H-256	-0.6034281849861145	Maybe we can see it as a change .
+H-257	-0.45474010705947876	adversity is just a change that we &apos;re not yet adapted to .
+H-258	-0.49273818731307983	I think the biggest adversity we have created for ourselves is the idea of normal .
+H-259	-0.5160689353942871	So who &apos;s normal ?
+H-260	-0.5027707815170288	There &apos;s no normal .
+H-261	-0.46326184272766113	There &apos;s common . There &apos;s the typical one . There &apos;s no normal .
+H-262	-0.6741042733192444	And would you like to meet this poor blank person , if she existed ?
+H-263	-0.12116648256778717	I don &apos;t think so .
+H-264	-0.4949497580528259	If we can change this paradigm , the idea of succeeding in normality , the ability , or the power , to even be a little more dangerous , we can free the power of so many other children , and invite them to exploit their rare and precious skills into the community .
+H-265	-0.4183407723903656	Anthropologists tell us that the only thing we have , as humans , always asked members of our communities , is to be useful , to be able to contribute .
+H-266	-0.7461310029029846	We &apos;ve got evidence that the men of up the ground , 60,000 years ago , carrying their elders and those who were severely wounded , and , perhaps , because the experience of a life to survive , in those people , prove their value to the community : they didn &apos;t see those people as broken and useless ; they saw them as scarce and precious .
+H-267	-0.737852156162262	A few years ago , I was in a market in the town where I grew up in that red area in the Eastern part of the Pennsylvania , and stood up above the top of a makeshift tomatoes .
+H-268	-0.3315063714981079	It was summer . I was wearing a shorts .
+H-269	-0.3952785134315491	I hear this guy , his voice behind me says , &quot; Hold on , if it &apos;s not Aimee Mullins . &quot;
+H-270	-0.36051616072654724	And I turn around , and there &apos;s this older gentleman . I have no idea who it is .
+H-271	-0.25453174114227295	And I said , &quot; Excuse me , sir , we know ? I don &apos;t remember meeting you . &quot;
+H-272	-0.3929171860218048	He said , &quot; Well , you can &apos;t remember seeing me .
+H-273	-0.5021084547042847	I mean , when we met I was walking you out of your mother &apos;s stomach . &quot;
+H-274	-0.30104514956474304	Oh , this guy .
+H-275	-1.2669459581375122	And , of course , I &apos;ve set it all up .
+H-276	-0.7207769751548767	This gentleman was Dr. set up , a man who I had only known through my mother &apos;s stories on this day , because , of course , I had two weeks late on the day I was born .
+H-277	-0.5671799182891846	And so the average doctor of my mother had gone on holiday , and the man who put me in the world was a total stranger for my parents .
+H-278	-0.69985431432724	And , as I was born without my leg , and I had the feet turned inside , and some toes on that foot , and some toes on that foot , and some toes on that foot , he had to be the case , this stranger had to have the opportunity to have the bad news .
+H-279	-0.6087379455566406	He said , &quot; I had to give this thing looked like your parents that you &apos;re never going to sleep , and you would never have this kind of mobility that other kids have , or any kind of independence in life , and you &apos;ve made me a liar since that day . &quot;
+H-281	-0.32341912388801575	And he called this part of the course , the X @-@ factor , the potential of human will .
+H-282	-0.9092327356338501	And none of them looked at how powerful this could be in the quality of somebody &apos;s life .
+H-283	-0.6787928938865662	And Dr. set it up to tell me , he said , &quot; From my experience , unless we repeat it again , and having the minimum support , if we let him cope , a child succeed . &quot;
+H-284	-1.1800224781036377	See , Dr. warming has changed its way of thinking .
+H-285	-0.4371423125267029	He understood that there is a difference between the medical condition and what one person can do with it .
+H-286	-0.5299475789070129	And my way of thinking about it changed over time , in the sense that , if you &apos;d asked me the question 15 years ago , to know if I would traded my prostheses against flesh and flesh legs , I wouldn &apos;t have pursued a second .
+H-287	-1.1293457746505737	At this time I &apos;m going to succumb to this kind of input .
+H-288	-0.4401368796825409	If you ask me today , I &apos;m not really sure anymore .
+H-289	-0.4473971128463745	And that &apos;s because of the experiments I had with them , not despite the experience I had with them .
+H-290	-0.6552244424819946	And maybe this change in me happened because I was exposed to more people who opened my door to doors than people who put me in the lid on it and increased me .
+H-291	-0.36891478300094604	See , all you need is one person showing you the epiphany of your own power , and you left .
+H-292	-0.48148077726364136	If you can give someone the key to their own power , the human mind is so exhilarating , if you can do that and open the door to someone in the crucial moment , you educate them in the best sense .
+H-293	-0.3574812114238739	You teach them to open their own doors .
+H-294	-1.1184616088867188	In fact , the exact meaning of the word education comes from the root &quot; top @-@ up . &quot;
+H-295	-0.36141112446784973	It means to produce what is inside , to reveal the potential .
+H-296	-0.2575385868549347	So what potential do we want to reveal ?
+H-297	-0.673442542552948	A study was done in the &apos; 60s in Britain when they went from elementary school to multi @-@ cellular schools .
+H-298	-1.0056344270706177	It &apos;s called &quot; flow testing . &quot; We call it &quot; flow @-@ More &quot; here in the United States .
+H-299	-0.4477454423904419	It &apos;s about separating students by grade A , B , C , D and so on .
+H-300	-0.43856438994407654	And the students A have the hardest program , the best teachers , etc .
+H-301	-0.34430766105651855	So they took , over a period of three months , a level of D students , gave them A , told them they were A , they were smart .
+H-302	-0.4072670042514801	And at the end of the three @-@ month period , they had level @-@ A results .
+H-303	-0.8658089637756348	And , of course , the side of course , is that the side of this study is that they took students A and told them they were level D .
+H-304	-0.3916705250740051	And that &apos;s what happened at the end of those three months .
+H-305	-0.4689507484436035	Those who were out in the corner , in the school , in addition to those who &apos;d given up .
+H-306	-1.0403776168823242	The main point of this case study is that the teachers were also warming up .
+H-307	-0.7283474802970886	Teachers didn &apos;t know we had an exchange .
+H-308	-0.7311805486679077	They were just told to be students A , these are the D students .
+H-309	-0.5010308027267456	And that &apos;s the way they started teaching them and treating them .
+H-310	-0.6105462908744812	So , I think the only true disability is this crushed mind , a mind that &apos;s crushed has no hope .
+H-311	-0.3724449872970581	He &apos;s not seeing beauty .
+H-312	-0.518105149269104	He has no natural curiosity , children and our ability to imagine anymore .
+H-313	-0.6653994917869568	If instead , you can support a human spirit to keep him hopeful , that he sees beauty in himself and others , whether he &apos;s curious and imaginative , then we use our power to get done .
+H-314	-0.2277485579252243	When a mind has these qualities , we &apos;re able to create new realities and new ways of being .
+H-315	-2.1076500415802	And I &apos;d like to leave you with a poem by a poet of a bloody century poet , called full @-@ century success , called &quot; top of my friend Jacques Cousteau . &quot;
+H-316	-0.1792657971382141	And the poem is called &quot; The god who only knows four words . &quot;
+H-317	-0.4596213400363922	Every child has known God , not the God of the names , not the god of &quot; do not , &quot; but the God who knows only four words and again , who says , &quot; Come dance with me . &quot;
+H-318	-0.5620517730712891	Thank you . For a while , I became interested in the placebo effect , which may look odd for a magician like a breeding issue , unless you looked at the thing like me , either something wrong can be so credible that it becomes something real .
+H-319	-0.25102874636650085	In other words , sugar pills have measurable effects in some types of studies , placebo effect , just because the person thinks what happens to him is a pharmaceutical effect .
+H-320	-0.3841843008995056	In terms of the management of pain , for example , if they believe it loud enough , there is a measurable effect in their bodies called placebo effect .
+H-321	-0.45639172196388245	A fake thing becomes something real because of somebody &apos;s perception .
+H-322	-0.5436192750930786	So in order to understand , I &apos;m going to show you something rudimentary , a very simple magic trick trick .
+H-323	-0.4775417149066925	I &apos;m going to show you how this works . It &apos;s a trick that &apos;s been in all the children &apos;s magic books for the last 50 years .
+H-324	-2.082008123397827	I &apos;ve taught it myself from the New 70s that I &apos;ve already learned from the &apos; 70s in &apos; 70s .
+H-325	-0.798043429851532	I &apos;m going to do it for you and then explain it to you .
+H-326	-0.3193998336791992	I &apos;ll explain to you why I explained it to you .
+H-327	-0.5241593718528748	This is what happens .
+H-328	-0.33918312191963196	The knife , which you can look at -- my hand , which you can look at .
+H-329	-0.40762776136398315	I &apos;m just going to hold the knife in my fist like this .
+H-330	-1.1045491695404053	I &apos;m warming my sleeve .
+H-331	-0.35115504264831543	To make sure there &apos;s nothing in my sleeves , I &apos;m just going to shake my wrist here .
+H-332	-0.565618097782135	As you can see at any time can &apos;t do it . As long as I greenhouse nothing can come out of my sleeve .
+H-333	-0.45178160071372986	The object of this tower is quite simple .
+H-334	-0.7129197120666504	I &apos;m going to open my hand , hoping , if it &apos;s all right , that my single magnetism will make the knife in place .
+H-335	-0.43343618512153625	In fact , it holds so well that I can shake it and the knife doesn &apos;t fall .
+H-336	-0.4988269805908203	Nothing comes in and out of my sleeve , no stuff . You can look at everything .
+H-337	-0.47820359468460083	Your da @-@ da @-@ da !
+H-338	-0.5527727603912354	This is a trick that I often learn to young kids who are interested in magic , because you can learn a lot about the illusion by doing so -- even though it &apos;s a very simple trick .
+H-339	-0.3555210828781128	There &apos;s probably a lot of people in the room who know this tower .
+H-340	-0.5241593718528748	This is what happens .
+H-341	-0.3119318187236786	I &apos;m holding the knife in my hand .
+H-342	-0.35309749841690063	I say I &apos;m going to hold my wrist to make sure that nothing comes in or out of my sleeve . It &apos;s a lie .
+H-343	-0.33349496126174927	The reason I hold my wrist is because this is actually the secret of the illusion .
+H-344	-0.4947090446949005	As my hand opens up to get away from you , that finger right here , my index , passes from where he &apos;s at a position pointing like this .
+H-345	-0.23223581910133362	Not bad .
+H-346	-0.7233682870864868	There &apos;s somebody who hasn &apos;t had a childhood here .
+H-347	-0.8735456466674805	So that &apos;s the way , from here to here .
+H-348	-0.41210612654685974	When I move , my finger changes space .
+H-349	-0.4442818760871887	You could talk about why this is an illusion , why you don &apos;t notice that there are only three fingers here , because the mind , in the way that it has information , it doesn &apos;t count one , two , three . It matches .
+H-350	-0.6546492576599121	That &apos;s not really the point . Here , I &apos;m opening my hand .
+H-351	-0.5693153738975525	Apparently it does not hold , not by animal magnetism but by deception , my index index being here .
+H-352	-0.5897377729415894	After I close my finger , the same way , I pull back . This movement sort of covers back from the finger .
+H-353	-0.3342275619506836	I take this hand away . I give you the knife .
+H-354	-0.2596251964569092	It &apos;s a trick you can do to your friends and neighbors . Thank you .
+H-355	-0.2951606214046478	Now , what does this have to do with the placebo effect ?
+H-356	-0.23483705520629883	I read a study about a year ago that really opened my mind .
+H-357	-0.6747807860374451	I &apos;m not a doctor or a researcher , so for me , it was a warming thing .
+H-358	-0.7163116335868835	It turns out that if you warmed up a placebo in the form of a white compressed , it &apos;s like an aspirin , it &apos;s just a white , round pill , it has a measurable effect .
+H-359	-0.3941846191883087	If you change the shape of the placebo , such as a smaller compressed example , and blue color , with a hollow letter , it &apos;s actually more efficient in measurable ways .
+H-360	-0.5053736567497253	Although neither one of these products is a drug -- these are sugar tablets .
+H-361	-0.5464738607406616	But a white compressed is not as good as a blue pill .
+H-362	-0.5940611362457275	What ? It blew me up .
+H-363	-0.42959684133529663	It turns out it doesn &apos;t stop there .
+H-364	-0.9825195670127869	If you &apos;ve got increase displays , they &apos;re more efficient than seals in any form .
+H-365	-0.9053201079368591	A colored gradient , which is yellow on one hand and red on the other , is better than a white increase .
+H-366	-0.39590737223625183	The dose has something to do with that .
+H-367	-0.4875372350215912	Once one pill twice a day is not as good as three seals -- I don &apos;t remember statistics any more -- sorry .
+H-368	-0.5183620452880859	I mean , I mean ,
+H-369	-1.4391270875930786	It &apos;s that top of us have something to do with this .
+H-370	-0.4154255986213684	The shape is also there for something .
+H-371	-0.1940765082836151	If you want the ultimate placebo , you have the needle .
+H-372	-0.41190358996391296	A syringe with something inert , a couple of centimeters of something inert that you inject to the patient .
+H-373	-0.49240902066230774	It &apos;s such a powerful picture in her mind , it &apos;s so much stronger than the white compressed .
+H-374	-0.5609968900680542	The chart , I &apos;m going to show you at another time when we have slides .
+H-375	-0.6635453701019287	What I mean is , white compressed is not as good as blue pressure , which is not as good as increased warming , which is not as the needle .
+H-376	-0.8930716514587402	There &apos;s no real drug quality at all .
+H-377	-0.44318586587905884	It &apos;s only your belief that makes it real in your body and it &apos;s a stronger effect .
+H-378	-0.3033653199672699	I wanted to see if I could take this idea and apply it to a magic trick .
+H-379	-0.7223246097564697	Take something that &apos;s apparently a fake trick and giving it the reality look like it is .
+H-380	-0.3117655813694	We know from this study that , when you want the reality , you take the needle .
+H-381	-0.4728052318096161	This is an 18 @-@ inch @-@ inch @-@ old pin . It &apos;s very sharp .
+H-382	-0.7001217007637024	I &apos;m just going to change it up a little bit .
+H-383	-0.8488936424255371	It &apos;s really my flesh . It &apos;s not the flesh growing up .
+H-384	-0.33773571252822876	It &apos;s my skin right there . It &apos;s not a special effect in Hollywood .
+H-385	-0.6500897407531738	I &apos;m going to punch my skin and pass this needle across the other side .
+H-386	-0.5780095458030701	If you don &apos;t stand for the blood view , if you fall into the apples easily -- I did this trick for friends in my hotel room last night at night to some people I didn &apos;t know , and a lady almost turned into the eye --
+H-387	-0.4017246663570404	If you &apos;re sensitive , look away at the next 30 seconds . In fact , you know what , I &apos;m going to be the hard part behind .
+H-388	-0.4541482925415039	You can see , but you can also look away .
+H-389	-0.3806888461112976	So here &apos;s what happens , right there , the beginning of my flesh in the lower part of my arm , I &apos;m just going to punch out a little bit .
+H-390	-0.4718664288520813	I &apos;m sorry , dude . Am you scared ?
+H-391	-0.5141223669052124	And then just a little bit through my skin , it comes out on the other side like this .
+H-392	-0.5270382761955261	We &apos;re basically in the same situation with the knife tower .
+H-393	-1.0586388111114502	somehow .
+H-394	-0.29712358117103577	You can &apos;t count my fingers there ?
+H-395	-0.2608238458633423	Let me show you . Here &apos;s one , two , three , four , five .
+H-396	-0.6312558650970459	Yes , good ...
+H-397	-0.47491714358329773	I know what people think when they see this .
+H-398	-0.45999959111213684	They go , &quot; He &apos;s not silly enough to plant things through the skin for us for a few minutes . &quot;
+H-399	-0.609610378742218	Let me give you a glimpse .
+H-400	-0.5666540861129761	What does it look like here ? Not bad .
+H-401	-0.1595650464296341	Yeah , I know .
+H-402	-0.5013791918754578	The bottom people go , &quot; Well , I didn &apos;t really see this . &quot;
+H-403	-0.41562655568122864	The people in the adjacent room are starting to enter into our own .
+H-404	-0.5639167428016663	Let me show you a little bit closer .
+H-405	-0.2652381658554077	It &apos;s really my skin . It &apos;s not a special effect in Hollywood .
+H-406	-0.3958871066570282	It &apos;s my flesh and I can turn .
+H-407	-0.3063667416572571	I &apos;m sorry . If you feel bad , look somewhere else , don &apos;t look at that .
+H-408	-0.7143231630325317	The people in the back or the ones who will go to the video years later will say , &quot; Ha , that &apos;s pretty bad indeed , but if that &apos;s true , see , there &apos;s a hole here and , if it was true , it will change . &quot;
+H-409	-0.510378360748291	Well let me take you out a little bit of blood .
+H-410	-0.417514443397522	Yes , there he is .
+H-411	-0.4368371367454529	Normally now , I should take the needle away .
+H-412	-0.47309842705726624	I &apos;ll wipe my arm up and show you there &apos;s no injury , but I think in this context and in the idea of taking something fake and making it real , I &apos;m just going to leave it this way and leaving the stage .
+H-413	-0.9803787469863892	We &apos;ll multiply more times in the next few days .
+H-414	-0.5905908346176147	I hope you &apos;ll want it . Thank you very much . My name is Jane full of play . I &apos;m working with games .
+H-415	-0.3557795286178589	I &apos;ve been creating online games for the last 10 years now .
+H-416	-0.2649238705635071	My goal for the next 10 years is to make it as easy to save the world in reality as it is in online games .
+H-417	-0.3203089237213135	For that , I have a plan that involves convincing more people , including you , spending more time playing greater and better games .
+H-418	-0.29205599427223206	Today we spend three billion hours a week playing online .
+H-419	-0.5021358728408813	Some of you here might think , &quot; It &apos;s a lot of time on games . &quot;
+H-420	-0.4865418076515198	Maybe too much , especially seeing the number of pressing problems to solve in the real world .
+H-421	-0.5188513994216919	But actually , based on my research , at the Institute for the Future , the reality is just the opposite .
+H-422	-0.2871122658252716	Three billion hours a week is not enough to solve the most pressing problems in the world .
+H-423	-0.44234639406204224	On the contrary , I think if we want to survive another hundred years on Earth , we have to increase that number considerably .
+H-424	-0.5734311938285828	I calculated the entire need is 21 billion hours of play a week .
+H-425	-0.7142593860626221	Maybe it &apos;s an intuitive idea , so I &apos;m going to do it more , let &apos;s look at it .
+H-426	-0.40325307846069336	If we want to solve problems like famine , poverty , climate change , conflict , obesity , I think we have to aim for playing online at least 21 billion hours a week , by the bottom of 10 years .
+H-427	-0.38563328981399536	If . I &apos;m serious . Really .
+H-428	-0.4773952066898346	That &apos;s why . This sums up pretty well why I think games are as essential to human species survival . Really .
+H-429	-1.0146465301513672	This is a portrait taken by the Phil fischeri photographer .
+H-430	-0.33337339758872986	He wanted to capture the emotion of the player .
+H-431	-0.3732769787311554	He put a camera in front of the players while they were playing .
+H-432	-0.22415059804916382	This is a classic emotion for a player .
+H-433	-0.551354169845581	If you &apos;re not a player , you could miss some of it .
+H-434	-0.40513187646865845	You may see the sense of urgency , a little bit of fear , but especially intense , intense concentration to solve a really difficult problem .
+H-435	-0.42368948459625244	If you &apos;re a player , you &apos;ll notice a couple of nuances , the fold around the eyes , and around the mouth that &apos;s a sign of optimism .
+H-436	-0.4044381082057953	The eyebrows expressed the surprise .
+H-437	-0.3818245232105255	This is a player about to live what &apos;s called an heroic winning .
+H-438	-0.4031836986541748	You &apos;ve heard about it . OK .
+H-439	-0.5631120204925537	So we have some players among us .
+H-440	-0.4728989601135254	An heroic victory is such an extraordinarily positive outcome that you have no idea that it was possible before you achieve it .
+H-441	-0.32400545477867126	It &apos;s almost beyond the limits of imagination .
+H-442	-0.4111444652080536	When you hit it , you &apos;re shocked to discover what you &apos;re really capable of . That &apos;s an heroic victory .
+H-443	-0.2512883245944977	This is a player about to win an heroic victory .
+H-444	-0.6436102986335754	This is the face that we need to see over millions of people all over the world as we &apos;re committing ourselves to the problems of the century to come .
+H-445	-0.4800618886947632	Someone &apos;s face , who , against all odds , is about to win an heroic victory .
+H-446	-0.29218700528144836	Unfortunately , we see more of this face every day when we deal with pressing problems .
+H-447	-0.6059855222702026	That &apos;s what I call &quot; I don &apos;t like life . &quot;
+H-448	-0.6073330640792847	This is me imitating it . Okay . Okay . All right .
+H-449	-0.34384477138519287	It &apos;s still me having this face .
+H-450	-0.3571358621120453	This is a graffiti in my former neighborhood in Berkeley , California , where I did my Ph.D. &quot; why are we better at play than in life ? &quot;
+H-451	-0.4056240916252136	That &apos;s a problem that a lot of players have .
+H-452	-0.47067591547966003	We think we &apos;re not as good at life as we are in games .
+H-453	-0.7581457495689392	Not just that means &quot; done &quot; although it &apos;s part of it .
+H-454	-0.5925912261009216	We get past this stage in games . But ... but ... but in the driving direction to do something that makes sense , ready to collaborate and to cooperate .
+H-455	-0.5149872303009033	When we &apos;re in the game , I think a lot of us are becoming the best version of ourselves , ready to help at any rate of eye , ready to address a problem as long as it will take , to get over the failure and start again .
+H-456	-0.4239615201950073	In real life , faced with failure , we &apos;re not often in that mindset .
+H-457	-0.24737827479839325	We feel overwhelmed .
+H-458	-0.3007737398147583	You feel overwhelmed .
+H-459	-0.31059402227401733	You feel anxious , maybe depressed , frustrated or cynical .
+H-460	-0.4366724491119385	We &apos;ve never got those sentiments when we play , they just don &apos;t exist .
+H-461	-0.2222578227519989	This is what I wanted to study when I was a graduate student .
+H-462	-0.6318962574005127	What &apos;s in games that make we think we can achieve everything ?
+H-463	-0.30738797783851624	How can we translate these feelings of play into our everyday work ?
+H-464	-0.3435322344303131	I looked at games like World of Warcraft , which is the archetype of the common problem @-@ solving environment .
+H-465	-0.4240131974220276	I started noticing details that make heroic wins in games possible .
+H-466	-0.37318888306617737	The first idea : As you enter one of these online games , especially in World of Warcraft , there are lots of different characters who want to trust you , right now , to achieve an incredible mission .
+H-467	-0.635811448097229	Not any one , but the one that fits perfectly at your level in the game . OK ?
+H-468	-0.4013690948486328	you can do it .
+H-469	-0.8856757283210754	They won &apos;t raise you any challenge you can &apos;t rise with .
+H-470	-0.45512014627456665	But one that &apos;s at the limit of your capabilities . So , you &apos;ve got to work hard .
+H-471	-0.4516405463218689	But there are no unemployment in World of Warcraft .
+H-472	-1.0414314270019531	No one turns it around .
+H-473	-0.3351867198944092	There &apos;s always something specific and important to do .
+H-474	-0.23595525324344635	And also hundreds of collaborators .
+H-475	-0.443096399307251	Where you go , hundreds of thousands of people ready to work with you to do your heroic mission .
+H-476	-0.9200296998023987	It &apos;s not something that you know about in real life , it &apos;s the feeling that , on the bottom , the hundreds of collaborators come out .
+H-477	-0.3877924978733063	And also there &apos;s this heroic story , the inspiring story of our lives , and what we do .
+H-478	-0.41855287551879883	We &apos;re all getting this positive feedback .
+H-479	-0.5648007988929749	You &apos;ve heard the phrases &quot; Next &quot; and &quot; Force + 1 , &quot; &quot; &quot; Intelligence + One . &quot;
+H-480	-0.23204560577869415	We don &apos;t have that kind of information in life .
+H-481	-0.6019014120101929	When I get out of the stage , I &apos;m not going to get &quot; top one + One , &quot; or &quot; crazy + 1 , &quot; &quot; &quot; &quot; crazy + 20 . &quot;
+H-482	-0.5418477058410645	I don &apos;t have that return in life .
+H-483	-0.5058050751686096	On the other hand , the problem with collaborative environments like World of Warcraft is that it &apos;s so gratifying to be continuously winning an heroic victory , which we decide to spend all of our time in these virtual worlds .
+H-484	-0.2614290714263916	It &apos;s just better than reality .
+H-485	-1.2402846813201904	To date , World &apos;s gamers of Warcraft have spent collectively millions of years solving the virtual problems of set @-@ up .
+H-486	-0.6019072532653809	That &apos;s not necessarily a bad thing .
+H-487	-0.4495069980621338	This may sound the opposite .
+H-488	-1.1731640100479126	But let &apos;s place that in context : there are nine million years ago , our earliest primate ancestor got up .
+H-489	-0.2453993558883667	He was the first primate standing up .
+H-490	-0.45377117395401	When we talk about the time we invest in games right now , the only way we approach it , or even think about it , is to talk about time @-@ scale human evolution , which is an extraordinary thing .
+H-491	-0.524965763092041	But it &apos;s also fair . It seems that as we move all this time to play , we change our capabilities of human beings .
+H-492	-0.32965484261512756	We become a more collaborative and honest species .
+H-493	-0.5690392255783081	It &apos;s true . I believe that .
+H-494	-0.5919639468193054	Please look at this interesting statistic .
+H-495	-0.6294475793838501	A Carnegie Mellon University researcher published this recently .
+H-496	-0.47736600041389465	A young way of today in a high @-@ play country has spent over a thousand hours playing online , at the age of 21 .
+H-497	-0.522308886051178	10 thousand hours is an interesting number for two titles .
+H-498	-0.6713030338287354	First , for the children in the United States , 10 consecutive hours is exactly the number of fifth grade school in high school if you go to all the classes .
+H-499	-0.6325499415397644	So there &apos;s a side program in education , in which young kids are learning to become a good player in the same way that they &apos;re learning everything else in school .
+H-500	-1.2016839981079102	Some of you may have seen Malcolm Gladwell &apos;s last book &quot; greater &quot; --
+H-501	-0.39173129200935364	You &apos;ve probably heard about his theory of success , the theory of the ten thousand hours .
+H-502	-0.5902538895606995	It &apos;s based on cognitive science research if you spend 10 thousand hours seriously studying anything before 21 years , you &apos;ll be viewing it .
+H-503	-0.30692484974861145	You &apos;ll also be good at anything but the best in the world .
+H-504	-0.8145700097084045	So , what we see is an entire generation of young people who are a huge workforce .
+H-505	-0.8150503039360046	So the big question is , &quot; What &apos;s the benefit of this thing ? &quot;
+H-506	-0.5751673579216003	If we knew about that , we would have virtually in our hands of unprecedented human resources .
+H-507	-0.3739379644393921	Here &apos;s how many people around the world spent at least one hour a day playing online .
+H-508	-1.2577751874923706	These are the evidence for play .
+H-509	-0.3971730172634125	500 million people who are extraordinarily good at something .
+H-510	-0.4020192325115204	Within the next decade , we &apos;ll have a billion new players who are extraordinarily good at something .
+H-511	-0.4648503065109253	If you didn &apos;t know , that &apos;s going to happen .
+H-512	-1.1118353605270386	The game industry grows at low @-@ consumption and operating through noise networks instead of the really , allowing the players from all over the world , and especially in India , in Brazil , to play online .
+H-513	-0.5629825592041016	We &apos;re waiting for a new billion players in more than a decade .
+H-514	-0.5028360486030579	That will be the number 1.5 billion .
+H-515	-0.7678495645523071	So I started to think about how these games make us secure .
+H-516	-0.5671098828315735	Here are my four conclusions . The first one : urgent optimism .
+H-517	-0.42948558926582336	OK . Imagine this as an extreme persuasion car .
+H-518	-0.5012636780738831	The overwhelming optimism is the willingness to act immediately to overcome a obstacle , associated with certainty of a reasonable hope to succeed .
+H-519	-0.3325919210910797	The players always believe that an heroic victory is possible , and it &apos;s worth trying , and trying now .
+H-520	-0.5415856838226318	The players don &apos;t sit around doing anything .
+H-521	-0.46603965759277344	They are very strong to a very dense social tissue .
+H-522	-0.531796395778656	A lot of interesting research shows that we like more people after they played with them , even though they had severely beaten us .
+H-523	-0.3388606309890747	Why ? Because it takes great confidence to play with somebody .
+H-524	-0.457779198884964	They &apos;re going to spend time with us , they &apos;re going to play the same rules , with the same targets , they &apos;re going to play until the game &apos;s over .
+H-525	-0.5876737833023071	So , playing together actually builds connections , confidence and collaboration .
+H-526	-0.745458722114563	The result is that we will multiply stronger social links .
+H-527	-0.5921267867088318	Fantastic productivity . I like this idea .
+H-528	-0.6869967579841614	You know there &apos;s a reason why the average World of Warcraft spending 22 hours a week , a mid @-@ time work in a way .
+H-529	-0.6387053728103638	It &apos;s because we know , when we play , that we &apos;re actually happier working hard , whether we &apos;re standing around or dragging around .
+H-530	-1.3013114929199219	We know that human beings are at its set up as he &apos;s making hard , but useful work .
+H-531	-0.4237142503261566	The players are willing to work hard , all the time , if we give them the right mission .
+H-532	-0.4130794405937195	And finally , an heroic meaning .
+H-533	-1.1105191707611084	The players like to watch themselves commit to one of the missions , one of the missions on the planet .
+H-534	-0.9516421556472778	So one little bite for you to put that in perspective .
+H-535	-0.2762470543384552	You all know Wikipedia , the largest wiki in the world .
+H-536	-0.4417686462402344	The second one , in the world , with almost 80,000 articles is the World of Warcraft .
+H-537	-0.2585867643356323	Five million people use it every month .
+H-538	-0.45656147599220276	They raised more information about the World of Warcraft on the Internet than any other subject that a wiki is dedicated to .
+H-539	-0.27259862422943115	They build an heroic story .
+H-540	-0.42493364214897156	They build a foundation of heroic knowledge on World of Warcraft .
+H-541	-0.5648046135902405	OK , these are the four superpowers united to one more goal .
+H-542	-0.7344831228256226	The players are people full of hope and super @-@ empowered .
+H-543	-0.703558623790741	They &apos;re people who believe they can change the world .
+H-544	-0.2756464183330536	The only problem is they believe that they are able to change virtual worlds and not the real world .
+H-545	-0.4768159091472626	Here &apos;s the problem I &apos;m trying to solve .
+H-546	-1.4982531070709229	Edward top is an economist .
+H-547	-0.5574994087219238	Her work is impressive . He &apos;s interested in reasons that push people to invest so much time , energy and money in online games .
+H-548	-0.30687758326530457	He says , &quot; We &apos;re seeing an event that is mass migration to virtual worlds and online play environments . &quot;
+H-549	-0.5050347447395325	This is an economist . And so a rational thing .
+H-550	-0.5314841270446777	And he says --
+H-551	-0.8499733209609985	not like me -- I &apos;m working with very , very careful games .
+H-552	-0.23901574313640594	So he says it &apos;s perfectly logical , because players can achieve more in games than in the real world .
+H-553	-0.1941816806793213	They can have stronger social relationships in games than in the real world .
+H-554	-0.4637792110443115	They have better feedback and they feel more rewarded in games than in real life .
+H-555	-0.3878885507583618	That &apos;s why it estimates that it &apos;s currently logical that players spend more time online than in the real world .
+H-556	-0.8088566660881042	And myself , I find this whole thing also rational , currently .
+H-557	-0.42172884941101074	But it &apos;s not , in any case , an optimal situation .
+H-558	-0.5035814642906189	We &apos;ve got to start making the real world closer to play .
+H-559	-0.4689507484436035	I was inspired by an event that happened 2,500 years ago .
+H-560	-1.8732869625091553	These are old dice , made out of all the sheep row . OK ?
+H-561	-1.6021021604537964	Before those wonderful play controllers , there were the more sheep &apos;s microphones .
+H-562	-0.7334956526756287	These represent the first game props invented by human beings .
+H-563	-0.6354413032531738	If you &apos;re familiar with the work of the Greek historian , warming , you may know this story .
+H-564	-0.39533793926239014	The story of who invented play and why .
+H-565	-1.6652158498764038	warming said that games , especially dice , have been invented in the realm of course of being impacted by famine .
+H-566	-1.1459733247756958	Apparently , famine was so bad that the king of mass should have done something crazy .
+H-567	-0.419578492641449	People were getting hurt . They were fighting .
+H-568	-0.31154531240463257	The situation was desperate . They needed an desperate solution .
+H-569	-1.4586055278778076	According to set up , they &apos;ll raise the dice and they &apos;ll raise the rule all over the place .
+H-570	-0.3252469301223755	The first day , everyone could eat .
+H-571	-0.3319937288761139	The next day , everybody had to play .
+H-572	-0.8083319664001465	They &apos;d be so focused on the game of dice -- games are so immersive and put us in such wonderfully competent productivity -- getting them to be more eating .
+H-573	-0.516071617603302	And so the next day they were playing .
+H-574	-0.4123622477054596	And the next day they eat .
+H-575	-1.02665114402771	According to set up , 18 years went by , they will raise starvation , eating one day , and playing the next day .
+H-576	-0.3963288962841034	I think that &apos;s exactly what we &apos;re doing today .
+H-577	-0.45368412137031555	We are acting to escape the suffering of the world .
+H-578	-0.5739642977714539	We &apos;re playing to get away from everything that &apos;s not going in real life , everything that &apos;s not satisfying , and we &apos;re getting out of the game that we need .
+H-579	-0.3213313817977905	But we don &apos;t have to stop there .
+H-580	-0.4872610569000244	It &apos;s really interesting .
+H-581	-0.9669579267501831	According to set up , after 18 years , starvation was still present . So , the king decided to play again with dice .
+H-582	-0.35228264331817627	They split the realm in half .
+H-583	-0.48749735951423645	They would play dice once , and the winners would be allowed to their heroic adventure .
+H-584	-0.6019223928451538	They will go out and look for the new place to live , leaving the exact number of people who can live on available resources , and hope to move their civilization to a place where it could thrive .
+H-585	-0.703893780708313	That sounds incredible , isn &apos;t it ?
+H-586	-1.2360820770263672	But recently , DNA evidence has shown that top @-@ top Empire , who has led to the Roman Empire , actually share the same DNA as the elders rise .
+H-587	-1.438341736793518	Recently scientists have suggested that the incredible story of set up is actually true .
+H-588	-0.700932502746582	geologists found evidence of global cooling that lasted for about 20 years that could explain starvation .
+H-589	-0.4045839309692383	So this incredible story could be true .
+H-590	-0.7726985216140747	They could actually have saved their culture by playing , by getting distracted in the game for 18 years , and then being so inspired , and knowing how to be sympathetic by the game that they &apos;ll raise civilization like this .
+H-591	-0.5990137457847595	We too can do it .
+H-592	-0.47397056221961975	We &apos;ve been playing Warcraft since 1994 .
+H-593	-0.3405233323574066	It was the first game of strategy in real time of the World of Warcraft . It was 16 years back .
+H-594	-0.3973022699356079	They &apos;ve been playing dice for 18 years . We &apos;ve been playing Warcraft for 16 years .
+H-595	-0.23209810256958008	I think we &apos;re ready for our heroic play .
+H-596	-0.5347477793693542	They shared their civilization in half to go out and look for a new world .
+H-597	-0.4863435924053192	This is how I get to my 21 billion hours of play a week .
+H-598	-0.4347894489765167	We need half of us to take an hour to play , until we solve real problems .
+H-599	-0.5004071593284607	I know you &apos;re thinking , &quot; How can we solve real problems by playing ? &quot; Well , that &apos;s what I &apos;ve dedicated my work over the last few years at the Institute for the Future Institute .
+H-600	-0.4307875633239746	We have this banner in our offices in Palo Alto , and she &apos;s saying our way of addressing the future .
+H-601	-0.22551336884498596	We don &apos;t want to try and predict the future .
+H-602	-0.41942015290260315	What we want to invent is to invent the future .
+H-603	-0.5891588926315308	We want to imagine the best possible result . And we want to get everybody on doing this to make this real result .
+H-604	-0.5897637009620667	We want to illustrate the heroic wins , and give people the resources to achieve one .
+H-605	-0.44246071577072144	I &apos;m going to show you quickly three games that I &apos;ve invented as an attempt to give people the resources to create this victory in their own future .
+H-606	-1.3958476781845093	This is the world without increased warming .
+H-607	-0.4303252696990967	We invented it in 2007 .
+H-608	-0.465867280960083	It &apos;s a online game where you &apos;re trying to survive a shortage of gas .
+H-609	-0.6992899775505066	The shortage of gasoline is set up , but we put in enough content in it so that you thought it &apos;s true and for life to live like there was no more stuff . When you start the game , you mark , you tell us where you live .
+H-610	-0.7285726070404053	And then you get news in real time , information sons showing you exactly how much gasoline costs , what &apos;s regulated , how food production is affected , how to transport is , if the schools closed , if there are riots .
+H-611	-0.45829278230667114	You have to figure out how to live your real life like this is true . And we ask you to tell it , to send videos , photos .
+H-612	-0.571915328502655	We tested this game with 900 players in 2007 .
+H-613	-0.22990593314170837	We &apos;ve been following them for three years .
+H-614	-0.7595599889755249	I can guarantee you that this is an experiment that is transforming you .
+H-615	-0.31827569007873535	Nobody wants to change their lifestyle to improve the world , or because we should .
+H-616	-0.5510460138320923	But if you multiply yourself in an heroic adventure and hear , &quot; We don &apos;t have gas anymore . &quot;
+H-617	-0.558849036693573	It becomes an extraordinary story and an adventure to live .
+H-618	-1.1880733966827393	Get yourself set up to see how you succeed .
+H-619	-0.8293290734291077	Most players experienced the steady habits in this game .
+H-620	-0.3744450509548187	So for the next game that we save the world , we decided to aim for a more acute problem , bigger than lack of gas .
+H-621	-1.1803778409957886	We created the game &quot; rise &quot; at the Institute for the Future .
+H-622	-0.4326178729534149	The subject was : a supercomputer calculated that humans were only 23 years old to live on Earth .
+H-623	-2.2052178382873535	This computer is called the soccer System of more warming up , of course .
+H-624	-1.361266851425171	We asked people to come in as a movie of Jerry top @-@ up .
+H-625	-0.3513931334018707	You know its movies , you build a dream team .
+H-626	-0.3680743873119354	There &apos;s astronaut , scientist , old prisoner , everyone &apos;s mission to save the world .
+H-627	-0.40163370966911316	But in our game , instead of just having five people in the team , we say everybody involved in it , your mission is to invent the energy of the future , the health of the future , the security of the future and the health of the future .
+H-628	-0.5031722187995911	8,000 people have played it for eight weeks .
+H-629	-0.8455543518066406	They &apos;ve imagined 500 crazy creative solutions you can find on the Internet while typing &quot; top of Google . &quot;
+H-630	-0.4212201237678528	Finally , the last game . We start March 3 . This is a collaboration game with the World Bank Institute .
+H-631	-1.0815238952636719	If you finish the game , you will be certified by the World Bank Institute as &apos;ve got coverage , promote 2010 .
+H-632	-0.6464654207229614	We &apos;re working with the universities of Sub @-@ Saharan Africa as well . We literally have them gain skills in social innovation .
+H-633	-0.4858792722225189	There &apos;s a comic book , different levels in local studies , in a network of knowledge , sustainability , vision and resource .
+H-634	-0.36713820695877075	I &apos;d like to ask you to share this game with young people from all over the world , especially in developing areas , who could benefit from this collaboration to begin to imagine their own social enterprises in order to save the world .
+H-635	-0.7058507800102234	I &apos;m going to sum it up .
+H-636	-0.38587212562561035	I have a question .
+H-637	-0.2602846324443817	What do you think is going to happen ?
+H-638	-0.487805038690567	There are all these incredible players , there are these games that are serving as pilots of what we could do , but none of them have saved the world yet .
+H-639	-0.32583311200141907	Well , I hope you &apos;ll agree with me to say that players are a practical resource to do tasks in the real world , that games are a powerful way for change .
+H-640	-0.367034912109375	We have all these incredible superpowers , this marvelous productivity , the ability to spin a strong social bond , this sense of urgent optimism , and the desire for some heroic meaning to our lives .
+H-641	-0.5672672390937805	I really hope we all know that we &apos;re going to come together to play useful games , to survive another 100 years on this planet .
+H-642	-0.6818214058876038	My wish is that you &apos;ll get set up to create games like play and play with it .
+H-643	-0.40713223814964294	When I look at the next 10 years , I &apos;m sure of two things : we can create any future we dream about , and we can play the games we want .
+H-644	-0.6266068816184998	That world @-@ changing games are starting !
+H-645	-0.2316310852766037	Thank you . I &apos;m going to talk today about energy and climate .
+H-646	-0.48877203464508057	And this may sound a little surprising because my work full time in the Foundation is about vaccines and seeds , the things we need to invent and distribute to help the two billion of the poorest people to live better .
+H-647	-0.49422580003738403	But the energy and the climate are hugely important to these people , in fact , more important than anybody else on the planet .
+H-648	-0.899956226348877	Climate is deteriorating , which means that there will be many years ago where their crops are not going to grow more .
+H-649	-0.303891122341156	There will be too much rain , or not enough rain .
+H-650	-0.46542060375213623	Things are going to move in directions that their fragile environment simply cannot support .
+H-651	-0.20741526782512665	And that leads to starvation . It leads to uncertainty . It leads to disorders .
+H-652	-0.3263290226459503	Climate change will be terrible for them .
+H-653	-0.3713763356208801	The price of energy , also , is very important to them .
+H-654	-0.4202346205711365	In fact , if you could only lower the price of one thing , to cut poverty , that would be , by far , energy .
+H-655	-0.4499283730983734	Now , the price of energy has declined over time .
+H-656	-0.3054400384426117	Really , the advances of civilization are based on advances in energy .
+H-657	-0.4791457951068878	The coal @-@ powered revolution has fueled the Industrial Revolution , and even in the 1900s , we &apos;ve witnessed a very rapid decrease in the price of electricity , and that &apos;s why we have refrigerators , the air conditioning revolution , that we can make modern materials and do so many things .
+H-658	-0.5132210850715637	In the rich world , everything goes well with electricity .
+H-659	-0.5413544178009033	But , at the same time that we lower the price -- and we left it to divide it by two -- we have to answer a new constraints , and this constraints is CO2 .
+H-660	-0.43185168504714966	CO2 heats the planet , and the CO2 equation on CO2 is actually very simple .
+H-661	-0.3745792508125305	If you take the total CO2 rejected , it leads to increasing temperature , and this rise of temperature leads to very negative effects .
+H-662	-0.5582598447799683	Some of the effects of weather and , perhaps worse , of systemic effects because natural ecosystems can &apos;t adapt to these rapid changes , and then you can see the collapse of these ecosystems .
+H-663	-0.6609025001525879	It &apos;s true that in the exact exact exact numbers , what temperature we will have , based on what CO2 increases , and where we have positive side effects there , we encounter some uncertainty , but not very much .
+H-664	-0.4067026674747467	And if we don &apos;t know exactly how much gravity these effects are , we know they &apos;re going to be extremely serious .
+H-665	-0.5866670608520508	And several times I asked high @-@ level scientists if we really had to go up to about zero ?
+H-666	-0.6670701503753662	Can &apos;t we just cut by half or quarter ?
+H-667	-0.3230645954608917	And the answer is that , until we were approaching zero , the temperature will continue to grow .
+H-668	-0.42520350217819214	And so this is a big challenge .
+H-669	-0.5710942149162292	It &apos;s very different to say that you &apos;re a three @-@ foot @-@ tall truck trying to walk under a three @-@ foot bridge , and you &apos;re going to find a way to slide across it .
+H-670	-0.4100593328475952	This is something that has to happen at zero .
+H-671	-0.4506009519100189	Every year we &apos;re pumping out a lot of CO2 , more than 26 billion tons .
+H-672	-0.4775618612766266	For every single American , that &apos;s about 20 tons .
+H-673	-0.41224443912506104	For a person in a poor country , it &apos;s less than a ton .
+H-674	-0.21297916769981384	The average is about five tons per person on the planet .
+H-675	-0.4995012581348419	And we have to figure out how to make changes to go down to zero .
+H-676	-0.2794400751590729	The increase has been constant .
+H-677	-0.6543135046958923	It &apos;s only because of a variety of economic changes that it &apos;s slowed down , so we &apos;ve got to move from a rapid increase to a drop , down to zero .
+H-678	-0.4128033220767975	That equation has four different factors .
+H-679	-0.8767808675765991	Let &apos;s do a little bit of increase .
+H-680	-0.39883747696876526	Well , we have something on the left , CO2 , which we want to cut to zero , and it &apos;s going to be based on the number of people , the services that every person uses , on average , energy used on average for every service , and CO2 thrown away , per unit of energy .
+H-681	-0.6360753178596497	So , let &apos;s look at each of these members , and see how we can reduce the outcome at zero .
+H-682	-0.5724861025810242	It &apos;s probably going to have one of those numbers that &apos;s close to zero .
+H-683	-0.486696720123291	This is from the level of high algebra , but let &apos;s take a look .
+H-684	-0.33272138237953186	First we have the population .
+H-685	-1.1799341440200806	The world now counts people people a billion people .
+H-686	-0.3954545259475708	We should be up to the nine billion .
+H-687	-0.550191342830658	With very good outcomes about new vaccines , health care , remote control , we could reduce it from , maybe 10 or 15 percent , but we will keep a factor of increase by about 1.3 .
+H-688	-0.48195335268974304	The second factor is the services we use .
+H-689	-0.4411669969558716	This is embracing everything , the food we eat , clothes , television , heating .
+H-690	-0.5105805993080139	They &apos;re very good things , and they get rid of poverty means they can supply those services to almost everyone on the planet .
+H-691	-0.5598461031913757	And that &apos;s a good thing that the figure is increasing .
+H-692	-0.5234139561653137	In the rich world , maybe the top billion , we could probably cut them , less use of less , but every year , that number , on average , will rise , and end up more than double the number of services being provided per person .
+H-693	-0.22157348692417145	Here we have an example of very basic service .
+H-694	-0.835554838180542	You have at home enough lighting to read and do school assignments . Not these kids . So they go out and do their homework on the street streetlights .
+H-695	-0.3320442736148834	Now , efficiency , &quot; E , &quot; the amount of energy for every service , and here we finally have good news .
+H-696	-0.5255048871040344	We have something that doesn &apos;t climb .
+H-697	-0.30147242546081543	Through various inventions and new ways of making light , thanks to new kinds of cars , different ways of building buildings .
+H-698	-0.58282470703125	There &apos;s a lot of services where we can reduce the energy quite substantially , and for certain individual services , reduce it from 90 percent .
+H-699	-0.41102808713912964	There are other services like how to make fertilizer , or to make airline transit , where the margins of improvement are much smaller .
+H-700	-0.4104485511779785	And so basically being optimistic , you could get a reduction in a factor of three to three , maybe even a factor of six .
+H-701	-0.5249776840209961	For all of these first three factors , we went to the best 26 billion , maybe 13 billion tons , and that &apos;s not enough .
+H-702	-0.30540895462036133	So , let &apos;s see this fourth factor -- which is going to be a key factor -- and that &apos;s the amount of CO2 release per unit of energy .
+H-703	-0.4542883336544037	And so the question is , &quot; Can we shrink it down to zero ? &quot;
+H-704	-0.4104814827442169	By burning coal , the answer is no .
+H-705	-0.32202357053756714	If you burn natural gas , neither will you .
+H-706	-0.43461841344833374	Almost all the techniques to produce electricity today , outside renewables and nuclear fuels , dismiss CO2 .
+H-707	-0.2837010622024536	And so what we &apos;re going to have to do on a global scale is create a new system .
+H-708	-0.5897732973098755	So we need miracles in the energy area .
+H-709	-0.3698921203613281	But when I use the magic word , I don &apos;t mean something impossible .
+H-710	-0.12948381900787354	The microprocessor is a miracle . The personal computer is a miracle .
+H-711	-0.3692803978919983	The Internet and web services are a miracle .
+H-712	-0.595176637172699	In that sense , the people in this room have been part of creating a lot of miracles .
+H-713	-0.9032813906669617	In a typical case , we don &apos;t have a date to emulate , where to have the miracle for a particular date .
+H-714	-0.6723402738571167	We usually stand just ready , and then some of them happen , some of them not .
+H-715	-0.4949894845485687	In this case , you have to go all the time and get a miracle with a fairly restricted calendar .
+H-716	-0.5009028315544128	I wondered how I could summarize this visually .
+H-717	-0.7930187582969666	Would there be some sort of illustration coming out of nature , a demonstration that would change people &apos;s imaginations here ?
+H-718	-0.6925730109214783	I redesigned last year , when I brought mosquitoes , people liked it .
+H-719	-0.410501092672348	It had allowed them to really integrate the idea that there are people who live with mosquitoes .
+H-720	-0.6491403579711914	So with energy , all I could achieve was that .
+H-721	-0.4142911434173584	I decided that release fireflies would be my contribution to the environment here this year .
+H-722	-0.3942611515522003	So here are natural fireflies .
+H-723	-0.9066106677055359	I &apos;ve been told they &apos;re not going to be torn up , in fact , they may not be able to get rid of that jar .
+H-724	-0.6575911045074463	There are all kinds of smart solutions like this , but they don &apos;t really bring a lot of things , actually .
+H-725	-0.5236973166465759	We need one or many solutions , working on a huge scale , with immense reliability , and , although we &apos;re looking in many directions , I can only see five of them standing along the road .
+H-726	-0.6958339810371399	I &apos;ve left out of that wave power , geothermal , fusion , biofuels .
+H-727	-0.7088866233825684	They &apos;ll get their contribution , and if I don &apos;t think so much better , but my idea about that is that in those five , there &apos;s still work to do , and we can &apos;t let go of it any more , even though it seems to be difficult , even if the challenges look important .
+H-728	-0.2832368016242981	Let &apos;s first look at the burning of fossil fuels , whether it &apos;s coal or natural gas .
+H-729	-0.5740875601768494	What you have to do there sounds simple , but it &apos;s not , is take all the CO2 , after combustion , take it out of the circuit , put it under pressure , make it liquid , put it in some place , and hope there &apos;s it left .
+H-730	-0.5873698592185974	There are some advanced projects that allow us to do this at 60 to 80 percent , but to get to 100 percent , that will be very awkward , and it &apos;s going to be difficult to set up where all this CO2 should be put in , but the hardest question is here .
+H-731	-0.4073709547519684	Who can have that certainty ?
+H-732	-0.418867826461792	Who &apos;s going to ensure something that &apos;s billions of times larger than any other type of waste you can think of , nuclear or whatever ?
+H-733	-0.31287169456481934	It &apos;s a lot of volume .
+H-734	-0.6532646417617798	So it &apos;s going to be difficult for this solution .
+H-735	-0.4630325734615326	Then there &apos;s nuclear .
+H-736	-0.5189772248268127	That also presents three big problems :
+H-737	-0.485189288854599	The cost , especially in highly regulated countries , is high .
+H-738	-0.5074727535247803	The security issue , to be really sure there won &apos;t be any problem , that even with human operators , the fuel doesn &apos;t be used for weapons .
+H-739	-0.42822954058647156	And then what do you do with waste ?
+H-740	-0.8524106740951538	And , although the volume isn &apos;t very introverted , it has lots of problems .
+H-741	-0.41839203238487244	People need to feel good about it .
+H-742	-0.6009963154792786	So , three very difficult problems that could be solved , and so , on which one should work .
+H-743	-0.3558833599090576	The last three of the five , I put them together .
+H-744	-0.4186018407344818	These are the people who often refer to as renewables .
+H-745	-0.41524457931518555	But in fact -- although it &apos;s great that they don &apos;t need any fuel -- they present some drawbacks .
+H-746	-0.34934285283088684	The first is that the density of energy produced because of these technologies is considerably lower than a power station .
+H-747	-0.5193026661872864	It &apos;s about energy farms , there &apos;s a lot of square miles , thousands of times more space than it is for a normal energy station .
+H-748	-0.9308501482009888	More of them are sources that work on and off .
+H-749	-0.9207126498222351	The sun is not shining all day , it &apos;s not shining every day , it &apos;s not shining every day , it &apos;s not blowing , it &apos;s not blowing all the time .
+H-750	-0.5657690763473511	And so , if you multiply those sources , you have to have a way to get energy during those times of time when it &apos;s not available .
+H-751	-0.696509063243866	We have huge cost problems here .
+H-752	-0.5578619241714478	We have a problem with transmission .
+H-753	-0.3806668817996979	For example , let &apos;s say that this energy source is outside your country , so not only do you need technology , but you have to deal with the risk of energy from elsewhere .
+H-754	-0.4632619619369507	And , eventually , there &apos;s this storage problem .
+H-755	-0.5317553281784058	So , to set up that , I &apos;ve studied all the kinds of batteries we create , for cars , for laptops , for phones , for pocket lamps , for everything , and compared to this to the amount of power that &apos;s being used in the world , and what I &apos;ve found is that all of the batteries we do today could store less than 10 minutes of all of the energy .
+H-756	-0.4814172685146332	So , in fact , we need a big breakthrough here , something that can improve from a factor of 100 approach to the approach we have right now .
+H-757	-0.39333298802375793	It &apos;s not possible , but it &apos;s not a very easy thing .
+H-758	-0.8160794973373413	This is what you can see when you &apos;re trying to get more of a source that you can get , say , 20 to 30 percent of what you &apos;re using .
+H-759	-0.47932523488998413	If you look at this source to provide the 100 percent , you need an incredible miracle battery .
+H-760	-0.6461718082427979	Now , let &apos;s try to move forward to the right approach to adopting .
+H-761	-0.6052948832511902	Is this a new &quot; Project Manhattan &quot; ? What is the way that we can do that ?
+H-762	-0.33921653032302856	Well , we need a lot of companies to work on this , hundreds .
+H-763	-0.3943890929222107	In each one of these five pathways , we need at least a hundred people .
+H-764	-0.33180561661720276	And for many of them , you &apos;ll think they &apos;re crazy . It &apos;s perfect .
+H-765	-0.5052382349967957	And , I think here , in the TED group , many people are already pursuing these paths .
+H-766	-1.5434446334838867	Bill set up many societies , one of which has the most important solar technologies .
+H-767	-0.9506924748420715	Isn &apos;t rely on top of dozens of companies doing great things and have interesting possibilities , and I &apos;m trying to help support these projects .
+H-768	-0.6725047826766968	In fact , Nathan Myhrvold and I , we are financially in a society who , you may not mind , has picked up the nuclear approach .
+H-769	-0.22541289031505585	There are some innovations in nuclear : modular , liquid .
+H-770	-0.698777973651886	And the innovation had been going down in this industry for quite a while . So the idea of there being some good ideas crawling around is not surprising .
+H-771	-1.029423713684082	The idea of set up is , instead of burning part of uranium , one percent of all , which is set up , we &apos;ve decided to burn the other 99 percent , increase it .
+H-772	-0.6817492246627808	It &apos;s a kind of crazy idea .
+H-773	-0.46774715185165405	In fact , it was a long time for people to talk about it , but they never managed to simulate properly whether it would work or not , so it was through the advent of the super @-@ modern computers that we were able to do the simulation , and see that , yes , with the right approach to materials , it seems to work .
+H-774	-0.380651593208313	And because you burn those 99 percent , you have greatly improved the profile of costs .
+H-775	-0.46769773960113525	What you burn is waste , and you can use as a fuel surplus of waste from today &apos;s reactors .
+H-776	-0.4522436261177063	So instead of worrying about them , we &apos;re using them . That &apos;s something .
+H-777	-0.5258407592773438	It sucks that uranium by running . It &apos;s kind of like a candle .
+H-778	-0.9975348711013794	You can think of it as a log on , often it as a &quot; wave wave reactor . &quot;
+H-779	-0.2291988879442215	In terms of fuel , it really solves the problem .
+H-780	-0.24883152544498444	I have a picture here from a place in Kentucky .
+H-781	-0.6854616403579712	These are the remains , &quot; The 99 percent , which have been removed all the parts that we &apos;re burning right now , so we call this &quot; Northern uranium . &quot;
+H-782	-0.630645751953125	That would enable the U.S. for hundreds of years to power the United States .
+H-783	-0.790820837020874	And , by a low @-@ expensive process , simply by filtering seawater , we would have enough fuel on all the rest of the planet .
+H-784	-0.5292108654975891	Okay , there &apos;s still a long way to go , but that &apos;s an example among the hundreds and the hundreds of ideas that we need to move forward .
+H-785	-0.5780938267707825	Let &apos;s think , how are we going to establish our scale of notation ?
+H-786	-0.5961263179779053	What should we look like our road map ?
+H-787	-0.4431459605693817	Let &apos;s start with the goal we have to reach , and then look at the intermediate steps .
+H-788	-0.3692356050014496	By 2050 , you &apos;ve heard a lot of people talk about this 80 percent reduction .
+H-789	-0.4843595623970032	It &apos;s really , really important that we get there .
+H-790	-0.5021270513534546	And that the 20 percent is what &apos;s happening in the poor countries , or a little bit of agriculture .
+H-791	-0.3393469750881195	Hopefully we &apos;ll have forestry and clean cement industry .
+H-792	-0.47107255458831787	So in order to get to these 80 percent , the developed world , including countries like China , they had to completely transform their methods of electricity .
+H-793	-0.5611096620559692	The next level , it will be to implement this zero @-@ emission technology , to have it implemented in every developed world and to be able to do it in other countries .
+H-794	-0.7404649257659912	That &apos;s a great deal .
+H-795	-0.7895131707191467	It &apos;s an essential part to keep the road map going .
+H-796	-0.6058915853500366	So , going back from this point on , what does the 2020 road leaf look like ?
+H-797	-0.40944480895996094	Well , again , we should have both elements .
+H-798	-0.6401541829109192	We need to go through efficient measurements to start getting cuts .
+H-799	-0.44884762167930603	Less we emit , less is going to be carbon dioxide , and therefore , less hot is going to be temperature .
+H-800	-0.5704147219657898	But in some ways , the level that we get here , by doing things that don &apos;t immediately lead to important cuts , is no longer more important , and maybe even less , than that other , which is the innovation that these breakthroughs rely on .
+H-801	-0.8982043862342834	These progress needs us to realize them at full speed , and we can quantify this in terms of corporations , pilots , in training systems , in professional arrangements .
+H-802	-0.3367446959018707	A lot of great books have been written about this .
+H-803	-0.7068653702735901	Al Gore &apos;s book , &quot; Our Choice , &quot; and David new book , &quot; sustainable energy without hot air . &quot;
+H-804	-0.6106219291687012	They actually illuminate the subject , and create a framework that opens up a lot to the discussion , because we need a broad support for it .
+H-805	-0.4215741455554962	A lot of things have to happen at the same time .
+H-806	-0.26892852783203125	So this is a wish .
+H-807	-0.6443606615066528	It &apos;s a very real wish to be invented by this technology .
+H-808	-0.47094881534576416	If I was given a single wish to do for the next 50 years , if I could choose the next President , or pick a vaccine , which is something I love , or choose that this thing was invented , a divided cost by two without any CO2 emissions , that &apos;s what I would choose .
+H-809	-0.44027677178382874	This is the one that would have the biggest impact .
+H-810	-0.38755396008491516	If that wish doesn &apos;t happen , the division between the people who think in the short run will be terrible , between the United States and China , between poor countries and rich countries , and life will be much worse for most of those two billion people .
+H-811	-0.227157860994339	So what do we have to do ?
+H-812	-0.4825119078159332	What do I call to you to go forward ?
+H-813	-0.5167063474655151	We need more funding for research .
+H-814	-0.4595211148262024	When the countries come together , like Copenhagen , they shouldn &apos;t just discuss CO2 .
+H-815	-0.7027222514152527	They should discuss this innovation program , and you &apos;d be surprised by the level of ridiculously low @-@ cost spending need by these innovative approaches .
+H-816	-0.583584189414978	We need market incentives , CO2 tax , with more exchange and exchange , something that activates a price signal .
+H-817	-0.6035760045051575	We &apos;ve got to convey the message .
+H-818	-0.3466578722000122	We need this dialogue to become more rational , more understandable , including the steps , the measurements that the government takes .
+H-819	-0.4173737168312073	It &apos;s a big wish , but I think we can achieve it .
+H-820	-0.08888520300388336	Thank you .
+H-821	-0.08888520300388336	Thank you .
+H-822	-0.16660743951797485	Thank you . Thank you .
+H-823	-1.0235120058059692	Thank you . Just to understand , as much as you &apos;ve got more money , I mean , first of all , can you come up with an idea of the magnitude of investment that this represents ?
+H-824	-0.6388211846351624	To pull out the software with the so that we can hire the best scientists , what we &apos;ve done is only in tens of millions , and even have tested our material in a Russian reactor to make sure that they work properly , we can only get into the hundreds of millions of millions , and even have tested our material material in a Russian reactor to make sure that they work properly .
+H-825	-0.7397552728652954	The hardest way to build the pilot reactor is to find the few billion , to find the dump , where this is how to build the first one .
+H-826	-0.3999388515949249	Once the first will be built , if everything works as announced , then it will become evidence , with economic data and energy density , so different than the nuclear we know .
+H-827	-0.6196718215942383	So , to understand , it involves building deep in the ground , something like a kind of vertical fuel column made of this repulsive uranium , and then the process begins with the top and continues to the bottom ?
+H-828	-0.5390363335609436	That &apos;s right . Today we have to constantly change the fuel reactor , so it requires a lot of people and a lot of controls to go wrong , like when you have to open it up and get in and out of things .
+H-829	-0.42864465713500977	That &apos;s not good .
+H-830	-0.47639185190200806	But if you have a very cheap fuel that you can put on it for 60 years -- just think of it as a log -- put it there without having all those same complex problems .
+H-831	-0.3827478885650635	He &apos;s out there , he &apos;s going to burn for the next 60 years and then it &apos;s over .
+H-832	-0.4985198378562927	This is a nuclear power station that &apos;s its own waste disposal solution .
+H-833	-0.4423791766166687	Yes . Well , what happens with waste is you can put them in place -- there &apos;s a lot less waste from this approach -- and then you can collect them , put them in another reactor and burn it all .
+H-834	-0.6744906902313232	In fact , we start with the waste that exists today , which is in these cooling tanks in the mud fields near the reactor .
+H-835	-0.42662814259529114	That &apos;s the fuel we start with .
+H-836	-0.48102131485939026	What was a problem with the old reactors , which is what feeds ours , and we dramatically reduces the waste volume with this process .
+H-837	-0.5481117367744446	But when you talk to people around you , around the world , the possibilities that we have here , where do we most interest in doing something about it ?
+H-838	-0.7381049990653992	Well , we didn &apos;t choose a special place , and there are all these notions of disclosure about everything that comes back to nuclear , so we &apos;re getting all the interest , and the company sent people to Russia , India , China .
+H-839	-0.5681488513946533	I went back to Secretary Energy here , talking about how that goes into the energy agenda .
+H-840	-0.34348079562187195	I &apos;m an optimist . You know the French and the Japanese did a good job .
+H-841	-0.532482385635376	This is a variant of something that has already been realized .
+H-842	-0.4906824827194214	It &apos;s a big improvement , but it &apos;s like a fast reactor , and many countries have already built , so every one of those is candidate to be the first country where we will build the first one .
+H-843	-0.9024133086204529	What are you in terms of how far away and how far away is there ?
+H-844	-0.5275652408599854	Well , one of those units of high @-@ scale electrical production , and this is just one approximation , we have to count 20 years to invent , and 20 years to work .
+H-845	-0.6474251747131348	This is the kind of distance that environmental models have shown us that we have to wait .
+H-846	-0.931335985660553	And , you know , warming up , if things go well , which is a lot of hope , could easily hold these time .
+H-847	-0.7076258063316345	And there is fortunately , today , tens of companies , and there are hundreds of them , who can , if the scientific side is going well ahead , and if the funding for their pilot plants is going on well , enter the competition as well .
+H-848	-0.5129796266555786	And it &apos;s going to be better if we see multiple successes , because then we can use a mixture of this .
+H-849	-0.9088507294654846	One of them has to succeed .
+H-850	-0.3667232096195221	In terms of the rules of large @-@ scale play , is that the most important thing you &apos;ve ever heard of ?
+H-851	-0.34523552656173706	A breakthrough in the energy domain is the most important thing .
+H-852	-0.3071366250514984	It would have been , even without the constraints of the environment , but the environmental constraints simply makes it so much more important .
+H-853	-0.3623277544975281	In nuclear domain there are other innovators .
+H-854	-0.6833096742630005	You know , we don &apos;t know their work as well as this one , but there are those ones who study the approach by modules , and it &apos;s a different approach .
+H-855	-0.41602805256843567	There &apos;s the sort of liquid reactor , which seems a little bit difficult , but maybe that &apos;s what they also thought of us .
+H-857	-0.36583054065704346	What if it doesn &apos;t work , then what to do ?
+H-858	-0.3413155972957611	Do we have to start taking emergency measurements to try and keep the stable temperature of the Earth ?
+H-859	-0.3499641418457031	If you came to this situation , it would be like you ate too much , and you were ready to have a heart attack .
+H-860	-0.4286876618862152	So where are you going ? You have to have heart surgery or something .
+H-861	-0.629569947719574	There &apos;s a search line on what we call geo @-@ engineering , carrying on various techniques , rising warming , making the 20 or 30 years necessary for us to take our hands .
+H-862	-0.8313294649124146	That &apos;s nothing more than insurance police .
+H-863	-0.3990907371044159	We hope we don &apos;t need it .
+H-864	-0.38485175371170044	Some people say we shouldn &apos;t even work in that direction , because it could make us lazy , like you kept eating because you know that heart surgery is going to be there to save you .
+H-865	-0.5100686550140381	I &apos;m not sure if that &apos;s wise , given the magnitude of the problem , but , well , there &apos;s this geo @-@ engineering story , to keep in the back of the pocket , in case things happen faster than you anticipated , or that innovation is much slower .
+H-866	-0.572022020816803	The skeptics @-@ skeptical : if you had one or two sentences to tell them , how would you persuade them that they &apos;re wrong ?
+H-867	-0.21069855988025665	Well , unfortunately , the skeptics are in different camps .
+H-868	-0.91724693775177	These are the arguments of scientists that are very few .
+H-869	-0.6809573173522949	Do they celebrate that there are negative feedback effects that have to do with clouds that have erased things ?
+H-870	-0.5472277402877808	There are very , very few things they can even say , there &apos;s one chance in a million to do that .
+H-871	-0.41629213094711304	The main problem we have here is kind of like AIDS .
+H-872	-0.21590834856033325	You make a mistake now , and you pay the price much later .
+H-873	-0.3931691348552704	When you have any kind of urgent problem , this idea of suffering now , with a payoff later -- versus pain that we &apos;re not sure about .
+H-874	-0.6408275365829468	In fact , the launch @-@ based experts report on Climate Evolution is not necessarily the worst case , and there are people in the rich countries looking at the IPCC and saying , &quot; Okay , it &apos;s not that important . &quot;
+H-875	-0.629618227481842	The fact is that it &apos;s that part of uncertainty that should push us in that direction .
+H-876	-0.46526607871055603	But my dream is , if you can make it economic , and answer the CO2 constraints , then the skeptics will say , &quot; OK , I don &apos;t mind it doesn &apos;t reject CO2 , I would have liked it to win CO2 , but I think I &apos;m going to accept it because it &apos;s cheaper than the ones before .
+H-877	-0.611790120601654	And then , it would be your answer to the name of Bjorn more , that if we spend all this energy trying to solve the CO2 problem , it &apos;s going to take all the other targets , like trying to get rid of the world of poverty and malaria , etc . , that it &apos;s a stupid waste of resources than to spend money on it , when there &apos;s much better to do it .
+H-878	-0.6204078197479248	Well , really spending meeting in R &amp; amp ; let &apos;s say , if the U.S. spent 10 billion more a year a year now than now -- it wouldn &apos;t be that dramatic .
+H-879	-0.9720271825790405	It wouldn &apos;t recover the other office jobs that we spend because of that .
+H-880	-0.5541998744010925	Where reasonable people can &apos;t agree , and we &apos;re talking about big ones , that &apos;s when you have something that &apos;s not economic , and you &apos;re trying to finance it .
+H-881	-0.6642768979072571	That &apos;s mainly what it is for me , which is waste .
+H-882	-0.41419506072998047	Except , if you &apos;re very close to the solution , and what you &apos;re aiming at is the progression of knowledge , and it &apos;s going to be very cheap .
+H-883	-0.404949814081192	I think we should try more things that could , potentially , cost a lot cheaper .
+H-884	-0.8323348164558411	If the negotiation you &apos;ll raise , it &apos;s &quot; Let &apos;s put the super @-@ expensive energy out , &quot; then only rich people can afford it .
+H-885	-0.4127110242843628	I mean , all of us here , we could afford to pay our energy five times more expensive , without changing our way of life .
+H-886	-0.4124446511268616	The disaster would be for these two billion people .
+H-887	-1.443711757659912	And even warming has changed .
+H-888	-0.5275692939758301	His trick , now , is to say , &quot; why don &apos;t we talk more about R &amp; amp &apos;t more R &amp; amp ; D ? &quot;
+H-889	-0.7307048439979553	It &apos;s still , because of the before deal , always associated with the camp of put @-@ skeptical , but he realized it &apos;s a pretty lonely position , so he comes back up with his R &amp; amp ; D thing .
+H-890	-0.4647357761859894	But in there is something that doesn &apos;t seem wrong to me .
+H-891	-0.5276654958724976	It &apos;s crazy to see how R &amp; amp ; D &apos;s funded .
+H-892	-0.3816010057926178	Well Bill , I think I talk on behalf of most people here saying that I really hope that your wish would become reality . Thank you very much .
+H-893	-0.4665791690349579	Thank you . I &apos;ve experienced a lot of fish in my life .
+H-894	-0.7727101445198059	There are only two of them that I &apos;ve interviewed .
+H-895	-0.5313045978546143	With the first one , it was more of a passionate relationship .
+H-896	-1.326474666595459	It was a beautiful fish , full @-@ tasty , full @-@ anatomy , a best selling fish on the menu .
+H-897	-0.5098976492881775	What a fish !
+H-898	-0.5115839838981628	Even better , he was supposed to be raised by the highest norms of sustainability .
+H-899	-0.876458466053009	Which makes it so that selling it , you felt very well .
+H-900	-0.38953372836112976	I &apos;ve been in touch with this beauty for several months .
+H-901	-0.5169246792793274	One day the company leader called me and asked me if I wanted to speak at a conference on the sustainable side of its livestock .
+H-902	-0.4297499358654022	&quot; Absolutely , &quot; I said .
+H-903	-0.5279930233955383	There was a company that was trying to solve what became an unimaginable issue for our leaders :
+H-904	-0.2701064646244049	How do we keep fish on our menus ?
+H-905	-0.8513623476028442	Over the last 50 years , we &apos;ve been fished in seas as we &apos;ve set up the forests .
+H-906	-0.7331956624984741	It &apos;s difficult to exaggerate destruction .
+H-907	-0.9831510186195374	90 percent of the big fish , the ones that we like , tuna , success , salmon , desert , have seen their stores collapse .
+H-908	-0.6177828907966614	There &apos;s almost nothing left .
+H-909	-0.6406867504119873	So for better or worse , traffic , fish farm , is going to be part of our future .
+H-910	-0.37298616766929626	There &apos;s a lot of arguments against this practice .
+H-911	-0.9259248971939087	Single @-@ weaving farms , at least most of them , and they &apos;re inefficient , say , take tuna .
+H-912	-0.710560142993927	A long failure .
+H-913	-0.4646609127521515	He &apos;s got a 15 @-@ to @-@ one food conversion ratio .
+H-914	-0.6962493658065796	That means it &apos;s going to take 15 pounds of wild fish to get a kilo of tuna .
+H-915	-0.33193808794021606	Not very sustainable .
+H-916	-0.3992574214935303	Not very good taste either .
+H-917	-0.5472740530967712	So this is , finally , a company that &apos;s trying to do things right .
+H-918	-0.19765998423099518	I wanted to support them .
+H-919	-0.568167507648468	The day before the event , I called the director of the PR relationship of the company .
+H-920	-0.25180789828300476	Let &apos;s call him Don &apos;t .
+H-921	-0.6871188282966614	&quot; Don &apos;t , &quot; I told him , &quot; just to understand well , you &apos;re famous to raise your fish so far in the sea , you won &apos;t rise . &quot;
+H-922	-0.4468654692173004	&quot; Is it true , &quot; he said , &quot; We moved so far , that the waste of our fish are dispersed , not focused . &quot;
+H-923	-0.3854770362377167	And then he added , &quot; We &apos;re basically an autonomous world .
+H-924	-0.5326216816902161	The food conversion ratio ? One and a half for one , &quot; he said , &quot;
+H-925	-0.5084483027458191	&quot; The best in business . &quot;
+H-926	-0.5100410580635071	2.5 to 1 , not bad .
+H-927	-0.6722572445869446	&quot; 2.5 percent what ? Do you feed them with what ? &quot;
+H-928	-0.5218075513839722	&quot; sustainable proteins . &quot; He said .
+H-929	-0.3824169933795929	&quot; Great , &quot; I said . I hung up on the phone .
+H-930	-0.4142872393131256	And that night , I was in bed , and I thought , &quot; But what can be , a sustainable protein ? &quot;
+H-931	-0.2011008858680725	So the next day , just before the event , I called Don &apos;t .
+H-932	-0.2938394248485565	I said , &quot; Don &apos;t you give me some examples of sustainable protein ? &quot;
+H-933	-0.46183881163597107	He said he didn &apos;t know . He would have to ask around him .
+H-934	-0.36972859501838684	So , I had a few people from the company on the telephone .
+H-935	-0.3384639024734497	No one could give me a clear answer .
+H-936	-0.8789402842521667	Until finally , I had the phone in the chef &apos;s office .
+H-937	-0.2745600640773773	Let &apos;s call him Don &apos;t too .
+H-938	-0.35312721133232117	&quot; Don &apos;t , &quot; I said , &quot; can you give me some examples of sustainable protein ? &quot;
+H-939	-0.28483596444129944	Well , he mentioned some algae and some food foods for fish , and then he said &quot; chicken pellets . &quot;
+H-940	-0.1235978752374649	I said , &quot; chicken pellets ? &quot;
+H-941	-0.7553735971450806	He said , &quot; Yeah , feathers , skin , bone flour , mouth , pets , transformed into food for animals . &quot;
+H-942	-0.22962792217731476	I said , &quot; What &apos;s the percentage of chicken in food ? &quot;
+H-943	-0.30868685245513916	I thought , you know , something like two percent .
+H-944	-0.273514986038208	&quot; Well , about 30 percent , &quot; he said .
+H-945	-0.2993348240852356	And I said , &quot; Don &apos;t , what is sustainable to feed fish with chicken ? &quot;
+H-946	-0.37649819254875183	There was a long silence online , and he said , &quot; It &apos;s just that there &apos;s too many chickens in the world . &quot;
+H-947	-0.4217786192893982	My love for this fish has gone extinct .
+H-948	-1.6788297891616821	No , it &apos;s not because I &apos;m a kitchen nut , and it &apos;s not all wrong , and it &apos;s not because I &apos;m a bake kitchen nut .
+H-949	-0.6408989429473877	What I am , in fact .
+H-950	-0.3239123523235321	No , my love for this fish turned off because , I swear to God , after that conversation , the fish had a taste of chicken .
+H-951	-0.29396215081214905	The second fish is another kind of love history .
+H-952	-0.548697292804718	It &apos;s the romantic kind , the kind of thing that the more you learn from your fish , the more you like the fish .
+H-953	-0.3857034742832184	I first ate it in a restaurant in Southern Spain .
+H-954	-0.39867255091667175	A friend was talking to me about this fish for a long time .
+H-955	-1.433487892150879	It &apos;s sort of fixed us with a get @-@ up in a way .
+H-956	-0.6297299265861511	He came to the table with a brilliant white color , and it &apos;s sort of picked up .
+H-957	-1.1595693826675415	The chef had too much cooked her .
+H-958	-0.22444285452365875	Something like twice too long .
+H-959	-0.24895070493221283	And amazingly , he was still delicious .
+H-960	-0.45461028814315796	Who can make a good fish taste after cooked too much ?
+H-961	-0.5084221363067627	Not me , but this guy did .
+H-962	-1.9815342426300049	Let &apos;s call it the so @-@ called out of @-@ the @-@ art .
+H-963	-2.6657488346099854	And he &apos;s actually called just other people , actually .
+H-964	-0.4385681748390198	And no , he didn &apos;t have cooked the fish , and he wasn &apos;t a chef .
+H-965	-0.5719627141952515	At least not in the sense that you and I hear it .
+H-966	-1.4417580366134644	This is a biologist , top @-@ up biologist .
+H-967	-0.32651543617248535	This is a fish farm in the southwest of Spain .
+H-968	-0.9501415491104126	It &apos;s to the mouth of the increased river .
+H-969	-1.1280341148376465	Up until the 1980s , the farm was in the hands of exchange .
+H-970	-1.4032223224639893	They raised juniper beef based on what was essentially the artifacts .
+H-971	-1.5134494304656982	They &apos;ve done this in front of all seven times the land .
+H-972	-0.6278514266014099	They built this complex series of canals , they shook the water of the earth and sent it to the river .
+H-973	-0.28686070442199707	Finally , it didn &apos;t work , economically .
+H-974	-0.6793475151062012	And ecologically @-@ ecologically , it was a disaster .
+H-975	-0.4372665584087372	It killed about 90 percent of the birds , which , to this place , represents a lot of birds .
+H-976	-0.4509837031364441	And back in 1982 , a Spanish company with environmental awareness bought the terrain .
+H-977	-0.18639631569385529	What did they do ?
+H-978	-0.4378208816051483	They reversed the flow of water .
+H-979	-0.4667340815067291	They literally took the switch off .
+H-980	-0.3196850121021271	Instead of extracting the water , they used the channels to bring water back .
+H-981	-0.5446103811264038	They flooded with channels .
+H-982	-1.0895106792449951	They created a fish farm of 110 square @-@ foot pole , warming , factory , and in this process , feed and this company completely reversed the environmental destruction .
+H-983	-0.34469911456108093	The farm is amazing .
+H-984	-0.312130868434906	I mean , you &apos;ve never seen anything like that .
+H-985	-0.9155763983726501	You place your eyes on a horizon that &apos;s millions of miles away , and all you see , are sun channels and this thick , rich , rich , rich , swamp land .
+H-986	-2.514824628829956	I was there a little while ago with only mass time with other people .
+H-987	-1.0824553966522217	It &apos;s an amazing guy , three @-@ quarters @-@ quarters @-@ quarters of Charles Darwin and a quarter @-@ legged commercial .
+H-988	-0.8106675744056702	Right ? There we &apos;re walking hard in the wetlands , and I &apos;m holding breath and sweat , mud all the way to the knees and quietly giving a lesson of biology .
+H-989	-1.121551752090454	It shows a rare white increase .
+H-990	-0.40793904662132263	And then he talks about the minerals needs of phytoplankton .
+H-991	-0.6172260642051697	And here , here , he sees a grouping model that reminds him of the giraffe .
+H-992	-1.5475294589996338	And it turns out that just one of the most of his career in the National Park in Africa .
+H-993	-0.26702162623405457	I asked him how he became such an expert in fish .
+H-994	-0.3350047767162323	He said , &quot; Fish ? I knew nothing about fish .
+H-995	-0.2510626018047333	I &apos;m an expert in relations . &quot;
+H-996	-0.3592704236507416	And then he goes out into his conversation about rare birds and algae and strange aquatic plants .
+H-997	-0.5338844656944275	And don &apos;t get me wrong , it was really fascinating , you know , something like , &quot; The living , vibrant community . &quot;
+H-998	-0.33539870381355286	That was great , but I was in love with it .
+H-999	-0.9298473000526428	And I &apos;m still warming up remembering this piece too tasty of delicious fish that I had before .
+H-1000	-1.170264482498169	So I interrupted her . I told her , &quot; just a bite , what gives you so good taste of your fish ?
+H-1001	-0.16910485923290253	He showed me the algae .
+H-1002	-0.3643338978290558	&quot; I know , guy , algae , phytoplankton , relationships is great ...
+H-1003	-0.40889108180999756	But what do you eat your fish ?
+H-1004	-0.2716195583343506	What &apos;s the food conversion ratio ?
+H-1005	-0.5118470788002014	He &apos;s still going to explain to me that this is such a rich system , that fish eat what they &apos;re eating in nature .
+H-1006	-0.5592474937438965	The biomass of plants , phytoplankton , zoo , that &apos;s what feeds fish .
+H-1007	-0.7152913808822632	The system is so healthy , it &apos;s self @-@ round .
+H-1008	-0.47112441062927246	We don &apos;t feed them .
+H-1009	-0.2282579243183136	Have you ever heard of a farm that doesn &apos;t feed its animals ?
+H-1010	-0.9313649535179138	Later on that day , I was doing a trick on property with only , and I asked her , &quot; For a place that looks so natural , unlike all of the nested farms I &apos;ve ever seen , how do you measure success ? &quot;
+H-1011	-0.5166165828704834	At that time , it was like a stage director suddenly had changed the scene .
+H-1012	-0.5446433424949646	We took a turn , and here we saw an absolutely amazing show , thousands and thousands of roses , a really pink carpet , rising as far as we can see it .
+H-1013	-0.3239489793777466	&quot; That &apos;s the success , &quot; he said .
+H-1014	-0.7558112144470215	&quot; Look at their stomachs , &#91; Look at &#93; all this pink .
+H-1015	-1.8618308305740356	They &apos;re on top of set up . &quot;
+H-1016	-1.786545753479004	Any of the top ? I was completely lost .
+H-1017	-1.2182393074035645	And I said , &quot; just come in and behold , wouldn &apos;t they be in the process of wondering with your fish ? &quot;
+H-1018	-0.30048665404319763	&quot; Yes , &quot; he said , &quot; he said .
+H-1019	-0.3449976444244385	&quot; We lose 20 percent of our fish and eggs because of birds .
+H-1020	-0.32692649960517883	Well , last year , on this property there were 600,000 birds , more than 250 different species .
+H-1021	-0.5802338719367981	It became , today , the biggest and one of the most important private birds of all of Europe . &quot;
+H-1022	-1.1391080617904663	And I said , &quot; first @-@ growing bird population isn &apos;t the last thing we want on fish farm ? &quot;
+H-1023	-0.11512070149183273	He shook his head , &quot; No . &quot;
+H-1024	-1.127213716506958	He said , &quot; We &apos;ve got increased breeding , not intensive .
+H-1025	-0.37973690032958984	It &apos;s an ecological network .
+H-1026	-2.1590981483459473	should be eaten by shrimp .
+H-1027	-0.5943362712860107	shrimp eat phytoplankton .
+H-1028	-0.4425867199897766	So the more the stomach is pink , the better the system is . &quot;
+H-1029	-0.4924386143684387	OK , let &apos;s recap now .
+H-1030	-0.29746222496032715	A farm that doesn &apos;t feed its animals , is a farm that measures its success to the health of its predators .
+H-1031	-0.16014011204242706	A fish farm , but also a bird sanctuary .
+H-1032	-0.6880236864089966	Oh , and by the way , these vocabularies , first of all , they shouldn &apos;t even be there .
+H-1033	-0.4746110141277313	They breed in a city at 250 miles away , where the soil is more likely to build their nests .
+H-1034	-0.5548762679100037	Every morning they fly 200 miles to get to the farm .
+H-1035	-0.845657229423523	And every night they remix 250 miles to return .
+H-1036	-1.0458101034164429	They do this because they can keep up with the white line of the highway being cut .
+H-1037	-1.031730055809021	I &apos;m not kidding .
+H-1038	-1.2940324544906616	I was imagining a trick in the sort of penguin walk , so I looked out at other people &apos;s work .
+H-1039	-0.9918772578239441	And I said , &quot; prevalence , they &apos;re really doing 250 miles to come to the farm , and in the evening they &apos;re going to self @-@ flow 250 miles in the other way ?
+H-1040	-0.46108680963516235	Do they do that for the pups ? &quot;
+H-1041	-0.6475258469581604	He looked at me like I just had a song from Whitney .
+H-1042	-0.2275443971157074	He said , &quot; No , they do it because food is better . &quot;
+H-1043	-0.276650607585907	I didn &apos;t speak about my beloved fish skin , which was delicious , and I didn &apos;t like fish skin .
+H-1044	-1.1085199117660522	I don &apos;t like to delete it . I don &apos;t like it crisp ,
+H-1045	-0.927061915397644	And it &apos;s so pungent , and it &apos;s got the flavor of tar .
+H-1046	-0.5839720964431763	I almost never keep it in the kitchen .
+H-1047	-0.5029700398445129	And yet , when I tasted it in that restaurant in the south of Spain , she didn &apos;t have any flavor of fish skin at all .
+H-1048	-0.91523277759552	It had a sweet taste and clean like you &apos;ll kick up a bite of ocean .
+H-1049	-2.547147750854492	And I said this in other people , and he put it all up in time .
+H-1050	-0.20510701835155487	He said , &quot; The skin acts as a sponge .
+H-1051	-0.7117061018943787	It &apos;s the latest increase in defense before something enters the organism .
+H-1052	-0.5154195427894592	It &apos;s evolved to absorb the elements . &quot;
+H-1053	-0.4681725800037384	And then he added , &quot; But our water has no cloudy elements . &quot;
+H-1054	-0.29712510108947754	OK . A farm that doesn &apos;t feed its fish .
+H-1055	-0.4251391291618347	A farm that measures its success by the success of its predators .
+H-1056	-0.9249942302703857	And then I realized that when he said , &quot; A farm that has no cloudy elements , &quot; it was a hell of a increase , because the water flowing through this exploitation is coming from the filthy river .
+H-1057	-0.6120994091033936	This is the river that carries with it all the things that rivers tend to wear today , from chemicals , from pesticides , from pesticides .
+H-1058	-0.646016538143158	And when she does her way through the system and goes out , the water is cleaner than when she gets in .
+H-1059	-0.390849232673645	The system is so healthy it will operate the water .
+H-1060	-0.41673988103866577	So not just a farm that doesn &apos;t feed its animals , not just a farm that measures its success to the health of its predators , but a farm that is literally a water @-@ cleaning factory , and not just for those fish , but for you and I do .
+H-1061	-0.3412569463253021	Because when the water comes out , it spill into the Atlantic .
+H-1062	-0.5857443809509277	One drop in the ocean , I know , but I &apos;m going to take it , and you should do it the same , because this love history , even though it &apos;s romantic , is also social .
+H-1063	-0.9413500428199768	You might say that this is a recipe for the future of good food , whether you &apos;re talking about bars , or you &apos;re going to be talking about escalators .
+H-1064	-0.4831763505935669	What we need now is a radically new conception of agriculture , in which food feels really good .
+H-1065	-0.5832050442695618	But for many people it &apos;s a little bit too dramatic .
+H-1066	-0.9073882699012756	We &apos;re not realistic , we &apos;re other fans , cooking fans .
+H-1067	-0.4015085697174072	We &apos;re amateurs .
+H-1068	-0.23042024672031403	We love producers &apos; markets .
+H-1069	-0.5480108261108398	We like small family operations .
+H-1070	-0.26569703221321106	We &apos;re talking about local food .
+H-1071	-0.20963704586029053	We eat organic .
+H-1072	-0.5752997398376465	And when we suggest that this is all going to ensure the future of good food , someone , somewhere , stands up and says , &quot; Hey , man , I love the pink increase , but how are you going to do to feed the world ?
+H-1073	-0.27789732813835144	How are you going to feed the world ? &quot;
+H-1074	-0.1166287511587143	Can I be honest ?
+H-1075	-0.4249156713485718	I don &apos;t like this question .
+H-1076	-0.19251269102096558	No , it &apos;s not because we &apos;re already producing more than enough calories to feed the world .
+H-1077	-0.3944984972476959	A billion people are hungry today .
+H-1078	-0.6588776111602783	A billion -- more than ever before -- because of the compelling inequalities in the distribution , and not in touch .
+H-1079	-0.3325093686580658	I don &apos;t like this question because it determined the logic of our food system in the last 50 years .
+H-1080	-1.0286656618118286	Larger grains for the herbivores , pesticides for set up , chemicals for soil , fish chicken , and all the way up , agribusiness just said , &quot; If we feed more people for less money , is it so severe ? &quot;
+H-1081	-1.005389928817749	It &apos;s been our motivation . It &apos;s been the play @-@ winning plan . It &apos;s been America &apos;s lead plan .
+H-1082	-1.0102360248565674	You have to look at things in front of it . It &apos;s a field of activity in a repository of balance , an activity that is rapidly changing ecological capital that makes its own production possible .
+H-1083	-0.5522820353507996	It &apos;s not an enterprise , it &apos;s not agriculture .
+H-1084	-0.3513420820236206	Our bread @-@ to @-@ bread basket is threatened today , not because of the reduction of supply , but because of resource scarcity , resources scarcity .
+H-1085	-0.65439373254776	not because of the latest inventions for ants and tractors , but because of the fertile land -- not the pumps -- but because of the fresh water , not by the creature , but because of the forests , not by fishing ships and the net -- but by the fish in the sea .
+H-1086	-0.2522190511226654	You want to feed the world ?
+H-1087	-0.47492074966430664	Let &apos;s start with asking : How are we going to feed ourselves ?
+H-1088	-0.3063075542449951	Or better , how can we create the conditions that allow every community to feed themselves ?
+H-1089	-1.1888715028762817	In order to do that , don &apos;t take the model of set up for your future .
+H-1090	-0.8089747428894043	He &apos;s really old , and he &apos;s bribed .
+H-1091	-0.4855329394340515	It costs a lot of capital , chemistry and machines , and it never makes anything really good to eat .
+H-1092	-0.5072960257530212	Instead , let &apos;s take inspiration from the ecological model .
+H-1093	-0.4286046326160431	It &apos;s the one that is based on two billion years of experience on the pile .
+H-1094	-2.9455983638763428	I mean , you know , the farmers who are out there , you know , are just going to see in the river like just aren &apos;t going to come out and on tours , the farmers and the farmers like just this .
+H-1095	-1.2993472814559937	agricultural operations that are not being torn up on themselves , farms that will rise more than set of increase , farms that work simultaneously , and not just in intensive ways , farmers who are not just producers , but experts in relationships , but experts in relationships , too .
+H-1096	-0.5627545118331909	because those are also the ones that are taste experts .
+H-1097	-0.4391190707683563	And , to be completely honest , they make a better leader than I will ever be .
+H-1098	-0.30742114782333374	You know , it doesn &apos;t bother me , because if that &apos;s it , the future of good food , it &apos;s going to be delicious .
+H-1099	-0.26125505566596985	Thank you . I grew up nurturing science fiction .
+H-1100	-0.4942820966243744	In high school , I was taking the bus to go to school , every day , an hour of travel every direction .
+H-1101	-0.4865178167819977	And I was always immersed in a book , a science fiction book , taking my mind to other worlds , and sit in his narrative form , my insatiable curiosity then .
+H-1102	-0.6716406345367432	And that curiosity occurred as well as every time I wasn &apos;t in school , I &apos;m warming up in the woods , to walk and collect samples , &quot; frogs , snakes , insects and water coming from the pools , which I would come up with to look at them in the microscope .
+H-1103	-0.4715917706489563	You know , I was a real science nerd .
+H-1104	-0.45877304673194885	But it was to try to understand the world , understand the boundaries of possible .
+H-1105	-0.4328243136405945	And my love of science fiction seemed to be mirror into the world around me , because of everything that was happening , we were at the end of the &apos; 60s , going to the moon , we would change the depths of the ocean .
+H-1106	-0.4957835376262665	Jacques Cousteau was coming into our amazing living rooms with amazing emissions that showed us animals and places , and a wonderful world , that we could never have really imagined before .
+H-1107	-0.7419328093528748	So , we would have said , okay , that was okay with all the science fiction side of the time .
+H-1108	-0.18972960114479065	And I was an artist .
+H-1109	-0.21164728701114655	I could draw . I could paint .
+H-1110	-0.39998215436935425	And I understood that because there were no video games and this saturation of computer graphics , and all this imagery in the media landscape , then I had to create these images in my head .
+H-1111	-0.3592143654823303	You know , as we &apos;ve all done , like children reading a book and , through the description of the author , which project something on the screen of the film in their head .
+H-1112	-0.3620859980583191	Well , my answer to that was to paint , to draw alien creatures , exotic worlds , robots , space vessels , all this stuff .
+H-1113	-1.3505398035049438	In math class , I used to do myself all the time set up in sort of scribble my textbook in front of my classroom .
+H-1114	-0.8093594312667847	It was -- it was creativity that had to come in , sort of , reach its outlet .
+H-1115	-0.6326694488525391	And then one of the interesting things happened was , a show by Jacques Cousteau really wrapped me up to understand me that there was an alien world here on Earth .
+H-1116	-0.6771285533905029	There was a little chance that I could actually go one day to a spaceship alien planet .
+H-1117	-0.6284409165382385	It seemed damn unlikely .
+H-1118	-0.383541077375412	But there was a world where I could actually go , here on Earth , and it was as rich and exotic as anything I could imagine by reading these books .
+H-1119	-0.32077428698539734	So , I decided to become a submarine diver at the age of 15 .
+H-1120	-0.30342406034469604	And the only problem was that I was living in a small village in Canada , about 1,000 miles from the nearest ocean .
+H-1121	-0.8647951483726501	But I didn &apos;t make it very clear to me .
+H-1122	-0.4501008093357086	I took my father on until he found diving courses in Buffalo , New York , just across the border .
+H-1123	-0.4647447466850281	And actually , I graduated in the pool of a camp camp , at the center of the winter , in Buffalo , New York .
+H-1124	-0.6271102428436279	And I didn &apos;t see the ocean , a real ocean , for more than two years , until we &apos;re warming up in California .
+H-1125	-0.4499880075454712	In the last 40 years , I &apos;ve been spending about 3,000 hours underwater , including 500 hours underwater .
+H-1126	-0.5375491976737976	And one thing I &apos;ve learned is that this middle of the deep ocean , and even the shallow oceans , are so rich from an amazing life that &apos;s truly beyond our imagination .
+H-1127	-0.4084307551383972	Nature &apos;s imagination is limitless to our own poor human imagination .
+H-1128	-0.5908353924751282	Even today , I &apos;m very awe in front of what I see when I do those dives .
+H-1129	-0.413011759519577	And my love story with the ocean continues forever , and just as strong as it has ever been .
+H-1130	-0.5838710069656372	But when , as an adult , I chose a craft , it was the achievement of movies .
+H-1131	-0.6044625043869019	And it seemed like the best way to reconcile what I needed to do to tell stories , to hold my desire to create images .
+H-1132	-0.5487728714942932	When I was a kid , I basically drew comic books , things like that .
+H-1133	-0.5460654497146606	So , the theater was the way to put together pictures and stories . And it made sense .
+H-1134	-0.9813414216041565	And of course , the stories I chose to tell were stories of science fiction , &quot; &quot; &quot; Terminator , &quot; &quot; &quot; &quot; &quot; &quot; &quot; &quot; &quot; &quot; &quot; &quot; &quot; &quot; and &quot; The Matrix . &quot;
+H-1135	-1.1244176626205444	And with &quot; The Matrix , &quot; I &apos;ve got &quot; I &apos;ve been warming up at the same time my love of the underwater world and diving , with film making .
+H-1136	-0.9064193367958069	I , you know , merged the two passions .
+H-1137	-0.5192890167236328	One of the interesting things came out of &quot; The 99 , &quot; which was that to solve a specific storytelling problem in this film , which was to create a kind of liquid creature , made out of water , we actually chose the animation that was generated by the computer , the synthesis image .
+H-1138	-0.6495137810707092	And this gave the first computer @-@ based digital character that you &apos;ve ever seen in a film .
+H-1139	-0.5941644906997681	And even though the film hasn &apos;t reported money , we &apos;ve barely reached balance , I &apos;d say , I &apos;ve seen something incredible : the audience , the public around the world , has been hijacked by this apparent magic .
+H-1140	-0.9672742486000061	You know , it &apos;s Arthur Clarke &apos;s Law saying that all of the advanced technologies are being set up in magic .
+H-1141	-0.591413140296936	People were watching something magical .
+H-1142	-0.30970075726509094	And that got me very excited .
+H-1143	-0.2845899164676666	And I thought , &quot; Wow , that &apos;s something that has to be adopted by film art . &quot;
+H-1144	-0.3657890856266022	So with &quot; Terminator 2 , &quot; which was my next film , we pushed that much further .
+H-1145	-0.9794468879699707	As we were working with set up , we created the liquid metal guy in the film . The success held by the fact that this effect works or not .
+H-1146	-0.4347597658634186	And it worked . And then again we created the magic .
+H-1147	-0.5462917685508728	And we had the same result with the audience .
+H-1148	-0.4625309109687805	Even though we made some more money on this shot .
+H-1149	-0.49458426237106323	So , by leveraging a trait between these two points of experience , what we had come up with is that it was going to be a new world , it was a whole new world of creativity for theater artists .
+H-1150	-0.9218865633010864	So , I brought up a company with Stan Studio , my dear friend , Stan Studio , who was the best makeup and creatures in those days , and it was called &quot; Digital record . &quot;
+H-1151	-0.5652584433555603	And the concept of society was to make the leap right over the analog processes of optical schools , and go right to digital manufacturing .
+H-1152	-0.535991907119751	What we did that gave us a competitive advantage for a while .
+H-1153	-0.6267547607421875	But it got late in the mid @-@ 1990s in the design of characters and creatures that we created this society for .
+H-1154	-0.5191724300384521	So , I wrote this scenario that I called &quot; Avatar , &quot; which was intended to completely push the frontiers of visual effects , digital effects , with realistic human characters , capable of emotions , generated in a computer image . And the key characters would all be in a computer image . And the world would be computer @-@ graphics . And we would be going to push the frontiers .
+H-1155	-0.5021142363548279	And there the guys in my company told me we weren &apos;t going to be able to do that before a good time .
+H-1156	-0.6036422848701477	So , I put it on the side , and I made this other film on a big ship pouring down .
+H-1157	-0.3525702655315399	You know , I went and put this up in the studio like &quot; Romeo and Juliet on a boat &quot;
+H-1158	-0.3704778552055359	It was going to be an epic and romantic film , a passionate film .
+H-1159	-0.6467483043670654	Basically , what I wanted to do was just dive to the actual wreck of the Titanic . &quot;
+H-1160	-0.25229036808013916	And that &apos;s why I made the film .
+H-1161	-0.29527705907821655	And that &apos;s the truth . Okay , the studio didn &apos;t know .
+H-1162	-0.3942217230796814	But I convinced them . I said , &quot; We &apos;re going to dive to the wreckage . We &apos;re going to film it for real life .
+H-1163	-0.5521706342697144	We &apos;re going to use it for the opening of the film .
+H-1164	-0.5623701214790344	It &apos;s going to be really important . It &apos;s going to be a great marketing rush . &quot;
+H-1165	-0.37208741903305054	And I talked to them about funding an expedition .
+H-1166	-0.46619537472724915	It seems crazy . But it comes back to this idea of your imagination creating a reality .
+H-1167	-0.503474235534668	Because we actually created a reality where six months later I would find myself in a Russian submersible , within four miles deep in the North Atlantic , looking at the actual Titanic through a window , not a movie , not a HD HD , but for real .
+H-1168	-0.24539752304553986	Seriously , I was in shock .
+H-1169	-0.29255184531211853	It took a lot of preparation , we had to build cameras and lights and all sorts of things .
+H-1170	-0.4612548053264618	But it struck me how deeply this dive , these deep dives , looked like a space mission .
+H-1171	-0.3780766725540161	You know , this very technical side , and it requires a lot of planning .
+H-1172	-0.5814875960350037	You go up into that capsule , you were down into this dark and hostile environment where there is no opportunity for the rescue if you can &apos;t get away from it yourself .
+H-1173	-0.34844842553138733	And then I thought , &quot; Wow . It &apos;s like I &apos;m living in a science fiction movie .
+H-1174	-0.32765862345695496	That &apos;s really cool . &quot;
+H-1175	-0.8789233565330505	And yes , I &apos;ve been really stimulated by the ocean @-@ exploration virus .
+H-1176	-0.6030294895172119	And of course , again curiosity , and the scientific side .
+H-1177	-0.41714587807655334	That was it . That was the journey . It was curiosity . It was imagination .
+H-1178	-0.2895478308200836	And it was an experiment that Hollywood couldn &apos;t give me .
+H-1179	-0.3287414014339447	Because , you know , I could imagine a creature , and you could create a visual effect for her . But I couldn &apos;t imagine what I was seeing through this window .
+H-1180	-0.5501216053962708	And in some of our further expeditions I &apos;ve seen hydrothermal vents and sometimes things I &apos;d never seen before , sometimes things that no one had seen before , that had ever been described before , that had never been described by science as we saw it was recorded and recorded .
+H-1181	-0.7036103010177612	So , I really fell really crazy down of this , and it took me more .
+H-1182	-0.2842414081096649	And so I made a rather curious decision .
+H-1183	-0.38097304105758667	After the success of &quot; Titanic , &quot; I thought , &quot; OK , I &apos;m going to put aside my work as a filmmaker &apos;s work in Hollywood , and I &apos;m going to become an explorer at full time for a moment . &quot;
+H-1184	-0.32891836762428284	And we started planning these expeditions .
+H-1185	-0.8217127919197083	And we found ourselves going out and exploring the engagement , and exploring it with robotic vehicles .
+H-1186	-0.4589254558086395	We went back to the wreckage of the Titanic .
+H-1187	-0.4589427411556244	We took the small robots that we had created , the ones that were going for fiber optics .
+H-1188	-0.3773689568042755	The idea was to go in and do a study of the inside of this ship , which had never been done .
+H-1189	-0.43340471386909485	No one had ever looked inside the wreckage . They didn &apos;t have the resources to do it , but we &apos;ve created the technology to do it .
+H-1190	-0.390404611825943	So , here I am now , standing on the deck of the Titanic , sitting in a submersible , looking at sheets that look a lot like this , where I knew the orchestra had played .
+H-1191	-0.5933189988136292	And I &apos;m on my orders of a little robotic vehicle that &apos;s crossing the ship row .
+H-1192	-0.3146737813949585	In fact , I &apos;m controlling it remotely , but my mind is in the vehicle .
+H-1193	-0.6752814054489136	I felt like I was physically now inside the wreckage at the Titanic .
+H-1194	-0.5646412968635559	And it was the most surreal experience I &apos;ve ever seen before , because before I got a turn , I already knew what &apos;s going to be there before the lights of the vehicle reveal it , because I &apos;d screwed up the film for months when we were making the film .
+H-1195	-0.5998677611351013	And the stage was built as an accurate replica based on the ship plans .
+H-1196	-0.4061307907104492	Yes , it was an absolutely remarkable experience .
+H-1197	-0.720246434211731	And it really got me to understand one thing , the experience of more warming , that you can actually experience with these robotic avatars , that your consciousness is inserted into the vehicle , in this other form of existence .
+H-1198	-0.2955106794834137	It was really , really profound .
+H-1199	-0.5662081241607666	And perhaps a little glimpse of what can happen in a few decades when we start having bodies called exploration or other goals in many other post @-@ human post @-@ humans , as I can imagine , as a fan of science fiction .
+H-1200	-0.5252636075019836	So after making these expeditions , and really started to appreciate what was there , down there , like the chimneys in the deep ocean , where we had these fascinating animals .
+H-1201	-0.6645764708518982	They &apos;re strangers in real sense of the term , here on Earth .
+H-1202	-0.9551542401313782	They live in a worldwide environment .
+H-1203	-0.2940036356449127	They don &apos;t survive in a system based on the light of the Sun , as we do .
+H-1204	-0.38672325015068054	And then you can see animals living next to hot water geysers , more than 500 degrees C .
+H-1205	-0.7698187828063965	We wouldn &apos;t look like they could have existed .
+H-1206	-0.388821542263031	At the same time I began to be also very interested in space science , again , the influence of science fiction , as a kid .
+H-1207	-0.7604039907455444	And I ended up being involved in the space community , really involved with NASA , host the NASA Board , setting up real missions in space , going to Russia , following the protocols of selection , and all these kinds of things , in order to fly me to the good space station with our three @-@ dimensional cameras .
+H-1208	-0.5441237688064575	And it was fascinating .
+H-1209	-0.6041019558906555	But what I ended up doing is bringing space scientists with us in the deep space .
+H-1210	-0.7965971231460571	And take them to the bottom , that they have access , warming , scientific warming , people who are interested in those extreme environments , getting them down to the chimneys and let them see , take samples , taking their test instruments , and so on .
+H-1211	-0.5455387234687805	Well , there we used to read documentaries , but actually we did science and even space science .
+H-1212	-0.8480266332626343	I had a fully immersive grip to the loop between the science fiction fan , you know , the kid and doing this sort of thing for real life .
+H-1213	-0.3722844421863556	And you know , throughout that journey of discovery , I learned a lot .
+H-1214	-0.25484803318977356	I learned a lot about science . But I also learned a lot about leadership .
+H-1215	-0.4259934425354004	You think a stage director must be a leader , a leader , a ship captain , and all that kind of thing .
+H-1216	-0.37050870060920715	I didn &apos;t really learn much about leadership until I &apos;d done these expeditions .
+H-1217	-0.33739331364631653	Because I had to , at some point , say , &quot; What am I doing here ?
+H-1218	-0.46853727102279663	Why am I doing it ? What should I do with it ? &quot;
+H-1219	-0.6395127773284912	We don &apos;t make any money on this sacred emissions .
+H-1220	-0.8966985940933228	They just burst out . It doesn &apos;t bring in glory .
+H-1221	-0.6133637428283691	People had to think I was gone , between &quot; Titanic &quot; and &quot; Avatar , &quot; and I had to make sure I should polish the nails some place , sitting on a beach .
+H-1222	-0.70539790391922	You made all these movies , those documentaries , for a very limited audience .
+H-1223	-0.39164504408836365	No glory , no celebrity , no money . But what do you make ?
+H-1224	-0.5360007286071777	We do it for the thing itself , for the challenge -- and the ocean is the most challenging environment , which is -- for the fun of discovery , and for this strange link to this strange group of people to form a tight band .
+H-1225	-0.44315969944000244	Because these are the things we do with 10 or 12 people working together for years .
+H-1226	-0.6370563507080078	Sometimes gone to sea for two to three months .
+H-1227	-0.46297749876976013	And in that link , you realize that the most important thing is respect that you have towards them and that they have for you , that you &apos;ve done a task that you can &apos;t explain to somebody else .
+H-1229	-0.4874347746372223	It creates a link , it creates a respect obligation .
+H-1230	-0.392704576253891	So when I came back to make my next film , which was &quot; Avatar , &quot; I tried to apply this same principle of leadership that is that you will respect your team , and you will win their respect back .
+H-1231	-0.4903825521469116	And it really changed the dynamic .
+H-1232	-0.4588131606578827	So I would find myself again with a small team , in unknown territory , &quot; Avatar , &quot; with a new technology that didn &apos;t exist before .
+H-1233	-1.3499226570129395	Make it more exciting .
+H-1234	-0.31459030508995056	Extra difficult .
+H-1235	-0.511920690536499	And we &apos;ve become a family , over a four and a half @-@ year period .
+H-1236	-0.40130874514579773	And it completely changed the way I make movies .
+H-1237	-0.531093955039978	So people have made observations about how I &apos;d brought ocean organisms back to place them on Pandora &apos;s planet .
+H-1238	-0.5327199697494507	For me , it was more about how to do business , process itself , which changed as a result of that .
+H-1239	-0.5558924674987793	So what synthesis can we draw from all this ?
+H-1240	-0.2769419252872467	You know , what are the lessons we learned ?
+H-1241	-0.5459617972373962	Well , I think number one we have : curiosity .
+H-1242	-0.28930819034576416	This is the most powerful thing you owned .
+H-1243	-0.5156159996986389	Imagination is a force that can really create a reality .
+H-1244	-0.4784764051437378	And the respect of your team is more important than all the zone in the world .
+H-1245	-0.3922188878059387	There are young filmmakers coming up to me and saying , &quot; Give me advice to do this . &quot;
+H-1246	-0.5480653643608093	And I say , &quot; Don &apos;t draw boundaries .
+H-1247	-0.4610463082790375	Other people will do it for you , don &apos;t do it for yourself , don &apos;t play against yourself .
+H-1248	-0.2597064971923828	And take risks . &quot;
+H-1249	-0.5054136514663696	At NASA , they have this sentence that they like : &quot; failure is not an option . &quot;
+H-1250	-0.2956050932407379	But failure has to be an option in art and exploration , because it &apos;s an act of faith .
+H-1251	-0.4765225648880005	And no important effort that demanded innovations was done without risks .
+H-1252	-0.28060728311538696	You have to be willing to take those risks .
+H-1254	-0.33219680190086365	So what we have here is a picture of standard organized mortality by age .
+H-1255	-0.4774755537509918	The tool I use here is a little experiment .
+H-1256	-1.1472359895706177	It &apos;s called &quot; top @-@ up , &quot; and with top @-@ up I can choose to focus on one cause of death in particular , let &apos;s say accidents .
+H-1257	-0.3700355589389801	And , immediately , I see a different trend emerging .
+H-1258	-0.34434932470321655	That &apos;s because , in the middle area , people are the most active , and here they are the most fragile .
+H-1259	-0.517658531665802	We can go back and retool the data because of death , we see that heart disease and cancer are the usual suspects , but not for everyone .
+H-1260	-0.4487474858760834	If we keep going and filter by age , let &apos;s say 40 or less , we see that accidents are actually the biggest cause people should care about .
+H-1261	-0.471442848443985	And if you probe even a little bit deeper , it &apos;s particularly true for men .
+H-1262	-0.4805028438568115	Anyway , you understand the idea that seeing information , seeing data like this , looks a lot like swimming in a sort of graphic data bath .
+H-1263	-0.3235098719596863	And if we can do that with raw data , why can &apos;t we do it with content too ?
+H-1264	-1.4667080640792847	So what we &apos;ve got here is the cover of every single number of more coming up ever .
+H-1265	-0.6467950344085693	It &apos;s all there . It &apos;s all online .
+H-1266	-0.41563859581947327	You can go home and try after my talk .
+H-1267	-0.952118992805481	With rise , you can zoom in over a decade .
+H-1268	-0.27595576643943787	You can zoom in on a particular year .
+H-1269	-0.7255304455757141	You can go right to a specific number .
+H-1270	-0.6589953303337097	So I look at this ; I see athletes that appeared in this number , sports .
+H-1271	-0.4444545805454254	I &apos;m a Lance Armstrong fan , so I &apos;m going to click on that , which reveals me all the numbers in which Lance Armstrong is mentioned .
+H-1272	-0.5739105343818665	Now , if I just want to look at it for a look , I could say , &quot; Well , what if we look at everything that &apos;s talking about biking ? &quot;
+H-1273	-0.40040698647499084	So I can step back a little bit and explore this idea .
+H-1274	-1.3009536266326904	And I can see Greg any of you now .
+H-1275	-0.6365146040916443	And you start to understand the idea that when you navigate through information this way , in addition to it , by widening yourself , you &apos;re not looking away , you &apos;re not navigating .
+H-1276	-0.36442896723747253	You do something that &apos;s actually a little different .
+H-1277	-0.36196169257164	It &apos;s in between , and we think this changes the way information can be used .
+H-1278	-0.23340733349323273	And I want to extrapolate on this idea a little bit with something that &apos;s a little bit crazy .
+H-1279	-0.39893993735313416	What we &apos;ve done here is we &apos;ve taken every page of Wikipedia and reduced them down to a tiny summary .
+H-1280	-0.6659775972366333	So the summary is just made up of small increase and icon to indicate the theme it came from .
+H-1281	-0.5441585779190063	I &apos;m just showing you the first 500 pages most popular on Wikipedia .
+H-1282	-0.41045305132865906	But even in that limited view , you can do a bunch of things .
+H-1283	-0.6308816075325012	Immediately you &apos;ve got an idea of the most popular areas on Wikipedia .
+H-1284	-0.39306870102882385	I &apos;m going to go out and choose government .
+H-1285	-1.1297775506973267	Now having the government set up , I can now see that Wikipedia &apos;s categories that correspond most frequently to this are the children of the Year of Time magazine .
+H-1286	-1.3351651430130005	And it &apos;s important because it &apos;s a power @-@ top increase that wasn &apos;t captured in any pages of Wikipedia .
+H-1287	-0.6323390007019043	It &apos;s only possible to look back and look at them all .
+H-1288	-0.775797963142395	And when I look at one of those summaries in particular , I can now dig down the concept of the New Year of Time magazine , putting them all on .
+H-1289	-0.49367594718933105	As I look at these people , I see that most people come from the government .
+H-1290	-0.4675219655036926	Some of them come from natural sciences .
+H-1291	-0.7262201309204102	Other people , less still , come from business .
+H-1292	-0.39000794291496277	That &apos;s my boss .
+H-1293	-0.43881428241729736	And one is from the music world .
+H-1294	-0.3698804974555969	And interestingly , Bono is also a TED Prize winner .
+H-1295	-0.748344898223877	So we can go on and take a look at all the TED Prize laureates .
+H-1296	-0.4817653298377991	And you see , we &apos;re traveling the network for the first time as if it was indeed a network , not page to page , but to a higher degree of abstraction .
+H-1297	-0.5800871253013611	And also I &apos;d like to show you another thing that might well take you a little bit of surprise .
+H-1298	-0.31261420249938965	I &apos;m just showing you the New York Times website there .
+H-1299	-0.5619942545890808	So being set up , this app -- I don &apos;t want to call it a browser ; it &apos;s really not a browser , but you can visit web pages with -- and we &apos;re starting this technology to zoom in for every page like this .
+H-1300	-0.6253639459609985	So I can walk away directly to a particular section .
+H-1301	-0.4760992228984833	And the reason this is important is that , being able to consult web pages in this way I can look at the historical history of my navigation in exactly the same way .
+H-1302	-0.5356269478797913	So I can drill into what I &apos;ve done over time span .
+H-1303	-0.42436712980270386	The , in fact , that &apos;s the state of the whole demo I just gave .
+H-1304	-0.45787855982780457	And I can play some of the stuff that I did early today .
+H-1305	-0.5610491037368774	And , if I want to go away and look at all I can go into my historical history , maybe my research history .
+H-1306	-1.9733083248138428	Here , I was doing raise research , doing searches for good work for good , here for Live Labs .
+H-1307	-0.43740132451057434	And from that , I can dive into the Web and just throw them back .
+H-1308	-0.6323868036270142	This is a metaphor used multiple times , and every time it makes it much bigger than the sum of the parts with the data .
+H-1309	-0.5067777037620544	And in that moment , in this world , we think data is this curse .
+H-1310	-0.35632559657096863	We &apos;re talking about the information overload problem .
+H-1311	-0.5106146335601807	We &apos;re talking about being drowned under the data .
+H-1312	-0.4587225615978241	What if we could actually flip the situation and flip the web , so instead of something else , we normally go from one set of things to another set of things , and this process of being able to see the trends that would not have been hidden ?
+H-1313	-0.35421517491340637	If we can do that , then , rather than being a prisoner of the data , we could actually pull out information .
+H-1314	-0.5127114653587341	And , rather than just managing the information , we can pull out of knowledge .
+H-1315	-0.5984131693840027	And if we know it , then maybe there &apos;s even wisdom to pull from it .
+H-1316	-0.3002106249332428	And with that , I thank you . Suppose we have a machine here , a big machine , at TED mode , a time machine .
+H-1317	-0.6079314947128296	Every single one of us here has to go up there .
+H-1318	-0.41035476326942444	You can go backwards or backwards ; you can &apos;t stay where you are .
+H-1319	-0.4888569414615631	I wonder what you &apos;d choose because I asked my friends : they &apos;d all want to walk back .
+H-1320	-0.2969297468662262	They wanted to go back before automobiles or Twitter or New Star .
+H-1321	-0.15407584607601166	I don &apos;t know .
+H-1322	-0.9780073761940002	There &apos;s some sort of forest attraction to nostalgia , to higher wishes .
+H-1323	-0.4135441482067108	I understand that .
+H-1324	-0.5205986499786377	I must say I &apos;m not a part of it .
+H-1325	-0.7360846400260925	I don &apos;t want to go back to a lack of adventurous minds , but for the possibilities of this planet . They don &apos;t hold back , they move .
+H-1326	-0.5937651991844177	So I want to start this machine and move forward .
+H-1327	-0.7186461687088013	It &apos;s the biggest time ever on this planet any given unit : health , wealth , mobility , opportunities , runaway rates of disease .
+H-1328	-0.611976683139801	There &apos;s never been that time .
+H-1329	-0.4175540506839752	My great @-@ grandparents all died before I turned 60 .
+H-1330	-0.25282496213912964	My grandparents went up to 70 .
+H-1331	-0.4624496400356293	My parents approach the 80 .
+H-1332	-0.6740128397941589	So I wish there was a 9 at the beginning of my death age .
+H-1333	-0.2656419575214386	But it &apos;s not just about people like us because it &apos;s more general than that .
+H-1334	-0.1359827220439911	A kid born in New Delhi today can hope to live as long as the richest man in the world 100 years ago .
+H-1335	-0.3837713301181793	Think about it . It &apos;s an amazing fact .
+H-1336	-0.1896807849407196	Why is this true ?
+H-1337	-0.29440203309059143	smallpox : It killed billions of people on this planet .
+H-1338	-0.5799157023429871	It turned to the demographics on the globe like no war has ever done before .
+H-1339	-0.4618844985961914	It &apos;s gone . It &apos;s gone .
+H-1340	-0.21050560474395752	We overcome it .
+H-1341	-0.9439114332199097	In the rich world , the diseases that would raise millions of us there are almost no longer a generation .
+H-1342	-1.5077897310256958	The bacteria , the way it &apos;s catching up , the polio --
+H-1343	-0.4131728708744049	Does anybody know what this is about ?
+H-1344	-0.5552443861961365	Vaccines , modern medicine , our ability to feed billions of people , these are the vocabularies of the scientific method .
+H-1345	-0.4467131495475769	In my mind , the scientific method , trying things , see if they work , change them otherwise , that &apos;s one of the great advances in humanity .
+H-1346	-0.3946426808834076	That &apos;s the good news .
+H-1347	-0.493050217628479	Unfortunately , it &apos;s the only good news because there are other problems , mentioned many times , and one of them , despite all of our achievements , is that one billion people have sex the hollow belly in the world every single day .
+H-1348	-0.8633290529251099	This number is increasing , very quickly , and it &apos;s restricted .
+H-1349	-1.2379913330078125	Interestingly , we used our imaginations to disrupt this planet deeply .
+H-1350	-0.609627902507782	The safe drinking water , the agricultural soil , the rainforest , oil , gas : they disappear quickly and less innovate to get out of that mess , we &apos;re going to disappear too .
+H-1351	-0.43628451228141785	The question is : Can we do it ? I think we can .
+H-1352	-0.4987192451953888	It &apos;s clear that we can make food for billions of people without violating the land that they live on .
+H-1353	-0.3576490879058838	I think we can produce enough energy without destroying the world .
+H-1354	-0.4755741059780121	I really believe that . It &apos;s not a utopian .
+H-1355	-0.374703973531723	This is what wakes me up at night , one of the things that keeps me sleeping .
+H-1356	-0.5529592633247375	We never needed as much science as we do now . We have never been able to use it properly as we can now .
+H-1357	-0.7111004590988159	We &apos;re on the cusp of amazing events in many areas .
+H-1358	-0.33563971519470215	Yet , I think we have to go back to 300 years before the Enlightenment era to find a period where we were fighting progress , when we were fighting these things harder and stronger than we were now .
+H-1359	-0.2806970179080963	People will bury themselves in their beliefs so waterproof that you can &apos;t release them .
+H-1360	-0.38435378670692444	Even the truth doesn &apos;t release them .
+H-1361	-0.506650984287262	Each one is free of his opinions , each one can think of what it wants for progress , but you know what you can &apos;t do ?
+H-1362	-0.4374643564224243	We cannot deny the facts . Sorry , we can &apos;t .
+H-1363	-0.4392576217651367	It took me a long time to understand it .
+H-1364	-0.19487786293029785	10 years ago , I wrote a story about vaccine for the New Yorker .
+H-1365	-0.47685620188713074	I was surprised to meet as opposed to what was , after all , the most effective health measurement of all human history .
+H-1366	-0.2777208685874939	I didn &apos;t know what to do . I just wrote one story and then went on to something else .
+H-1367	-0.2718141973018646	A little bit later , I wrote a story about genetically modified food .
+H-1368	-0.24623630940914154	Same thing , worse .
+H-1369	-0.38668450713157654	People were getting crazy .
+H-1370	-0.6292502880096436	So , I wrote a story about this and I couldn &apos;t understand why people thought of &quot; Why should it move molecules in a random way rather than random , that was taken out of the laws of nature ? &quot;
+H-1371	-0.37901419401168823	You know , I do my job : I write the article and there it is .
+H-1372	-0.6058897972106934	I mean , I &apos;m a journalist : you type , you email , you go have dinner , you go have it .
+H-1373	-0.6168705224990845	But those stories have increased me . I &apos;ve come to understand why .
+H-1374	-0.9590260982513428	Well , because these fanatics who were going crazy to me weren &apos;t fanatics at all .
+H-1375	-0.8040404915809631	It was supposed to be people who were expected , educated , as it needed , to be .
+H-1376	-0.3156778812408447	just like the people in this room .
+H-1377	-0.495990127325058	It bothered me so much ...
+H-1378	-0.4648699164390564	And then I thought , let &apos;s be honest : we &apos;re at one point in this world where we have no longer the same relationship to progress than ever before .
+H-1379	-1.1742734909057617	We &apos;re talking about it all over the way .
+H-1380	-0.7595046162605286	We talk about it in an ironic way with quote , &quot; Progress . &quot;
+H-1381	-0.5158941745758057	There are reasons for that and I think we know them .
+H-1382	-0.4604710340499878	We &apos;ve lost faith in institutions , in authority and sometimes in science . There are no reasons why not to have lost it .
+H-1383	-0.7443839907646179	You just have to quote a few names and people understand :
+H-1384	-1.62334144115448	In Chernobyl , the Challenger , the Challenger , the weapons of mass destruction , electoral vote .
+H-1385	-0.3320598304271698	You can list your list .
+H-1386	-0.4491388499736786	There are questions and problems with people that we always thought were right .
+H-1387	-0.1878596395254135	Be skeptical .
+H-1388	-0.26540836691856384	Ask questions , insist on evidence .
+H-1389	-0.7495757937431335	Don &apos;t take anything for money to count .
+H-1390	-0.4690972864627838	But here &apos;s the thing : when you &apos;ve got the evidence , you &apos;ve got to accept evidence . We &apos;re not good at that .
+H-1391	-0.5091534852981567	The reason is that we &apos;re in a fear epidemic , as I &apos;ve never seen and hope never to see them again .
+H-1392	-1.5542480945587158	Twelve years ago was published by a horrific story that connected the autism epidemic to measles vaccine , increase and Although it was diminished .
+H-1393	-2.000596523284912	top of all .
+H-1394	-0.6566187143325806	Lots of studies were carried to see if that was true .
+H-1395	-0.48854929208755493	They had to be done ; it &apos;s a very serious issue .
+H-1396	-0.6222919821739197	The results came back from that .
+H-1397	-0.5714962482452393	United States , U.K. , Sweden , Canada , all the same : no correlation , no connection , nothing at all .
+H-1398	-0.5999206900596619	It doesn &apos;t matter because we believe anecdotes , we believe what we see , what we believe , what we think makes us feel real .
+H-1399	-0.5327590107917786	We don &apos;t believe a bunch of documents that are produced by an official of government and I understand that . We all understand .
+H-1400	-0.301533043384552	You know what ?
+H-1401	-0.5861105918884277	The result was devastating because here &apos;s one fact : the United States is one of the only countries in the world where immunization rate against measles decline .
+H-1402	-0.9559236764907837	It &apos;s resilient . We should be ashamed .
+H-1403	-0.5458186864852905	It &apos;s awful .
+H-1404	-0.8376989364624023	What could happen to make it happen ?
+H-1405	-0.40245288610458374	I really understand it .
+H-1406	-1.2681784629821777	Did anybody here get measles ?
+H-1407	-0.7165301442146301	Did anybody here see anybody dying of measles ?
+H-1408	-0.5835886001586914	Not very common --
+H-1409	-0.46552014350891113	It never happens anywhere else in this country , but it happened 160 times around the world last year .
+H-1410	-0.8425607681274414	This is a lot of deaths by measles . This is a lot of measles deaths .
+H-1411	-1.1095795631408691	And since this is not happening here , we &apos;ll change it with our minds and people like Jenny one can deliver messages of fear and ignorance on the hands of Oprah Winfrey or Larry King .
+H-1412	-0.30104830861091614	They can because they don &apos;t express causality and correlation .
+H-1413	-0.392007052898407	They don &apos;t understand that these notions look the same , but they &apos;re not the same .
+H-1414	-0.601922333240509	This is something you have to learn at the fastest .
+H-1415	-0.8831651210784912	This guy was a hero : Jonas Salk .
+H-1416	-0.29363369941711426	He gave us the worst scourge of mankind .
+H-1417	-0.286831796169281	Without fear and without pain : polio has disappeared .
+H-1418	-0.33440732955932617	This guy in the middle . Almost the same .
+H-1419	-1.5466903448104858	His name is Paul top @-@ up .
+H-1420	-1.585382103919983	He &apos;s just developed with more than one vaccine against more warming .
+H-1421	-0.3250836431980133	It saves the life of 400 to 500,000 children in the developing world every year .
+H-1422	-0.6812990307807922	Pretty good , right ?
+H-1423	-1.1287238597869873	It &apos;s good except that Paul voyage to talk about vaccines and say their value : that people stop their played .
+H-1424	-0.4713647961616516	He actually says it that way .
+H-1425	-0.27273544669151306	In fact , Paul &apos;s a terrorist .
+H-1426	-0.5947014093399048	When Paul gives a lecture , he cannot mind without armed guards .
+H-1427	-0.2928314805030823	He gets calls at night because people like to tell him that they know where his children go to school .
+H-1428	-0.12513518333435059	Why ? Because Paul made a vaccine .
+H-1429	-0.3955349028110504	I don &apos;t have to say that , but vaccines are essential .
+H-1430	-0.5573461055755615	You take them out , disease comes back , horrible diseases ; that &apos;s what happens . We &apos;ve had measles in this country now .
+H-1431	-0.4607507884502411	It &apos;s getting worse . Soon , children will die because it &apos;s just a statistics story .
+H-1432	-0.5811189413070679	They &apos;re not going to die only measles .
+H-1433	-0.30632925033569336	What about polio ? Let &apos;s take that . Why not ?
+H-1434	-0.8985010981559753	A trained roommate wrote me a couple of weeks ago to tell me she found me a little more warming .
+H-1435	-0.5115938782691956	Nobody told me this before .
+H-1436	-0.6747372150421143	She won &apos;t raise her child against polio .
+H-1437	-0.7091900706291199	No way .
+H-1438	-0.5312530398368835	All right .
+H-1439	-0.14187636971473694	Why ? Because we don &apos;t have polio . You know what ?
+H-1440	-0.1647922247648239	We didn &apos;t have polio in this country yesterday .
+H-1441	-0.5264245867729187	Today , I don &apos;t know . Maybe one guy flew in Lagos this morning and he &apos;s flying over to Los Angeles . He &apos;s over to Ohio .
+H-1442	-0.388039767742157	He &apos;s going to land in a couple of hours , rent a car and come to Long Beach . He &apos;s going to sit at one of the wonderful TED dinner dinners tonight .
+H-1443	-0.9560021758079529	He doesn &apos;t know if he &apos;s an incredibly infected disease , and neither do we because the world works that way .
+H-1444	-0.4003821015357971	This is the planet that we live on . Don &apos;t say the opposite .
+H-1445	-0.8766433000564575	We love to get set up in deception . We like it .
+H-1446	-0.42592719197273254	Everyone took their vitamins this morning ?
+H-1447	-1.4049253463745117	warming : top of a small increase in getting you on your way .
+H-1448	-0.44747158885002136	I know you do it because half the Americans do it every day .
+H-1449	-0.6101961731910706	They take it , as well as alternative drugs . And whatever frequency we find out they &apos;re useless .
+H-1450	-0.35019680857658386	Data is formal .
+H-1451	-0.4633359909057617	They just throw your urine away . They rarely do more than that .
+H-1452	-0.3717324137687683	It &apos;s good if you want to pay 28 billion dollars for urine dark . I &apos;m with you .
+H-1453	-3.010719060897827	Growing up .
+H-1454	-0.4151078164577484	Why do we do that ?
+H-1455	-1.0908703804016113	In my opinion , we already hate Big increase .
+H-1456	-0.26397454738616943	We hate government . We don &apos;t trust .
+H-1457	-0.3389309048652649	We shouldn &apos;t . Our healthcare system is bad .
+H-1458	-0.25560808181762695	It &apos;s cruel to millions of people .
+H-1459	-0.48839280009269714	It &apos;s incredibly cold and unbearable for those of us who can afford it .
+H-1460	-0.6932975053787231	So we set it away . To go where ?
+H-1461	-1.3331451416015625	We get caught up in the arms of Big exchange !
+H-1462	-1.0996700525283813	It &apos;s fantastic . I love Big exchange .
+H-1463	-0.40445560216903687	You know , it &apos;s really serious because this stuff is crap . We put billions of dollars in there .
+H-1464	-0.43702569603919983	I have lots of little examples here .
+H-1465	-0.9078429341316223	fraud : top lottery fraud . ED : I don &apos;t even know what it is , but it costs us billions of dollars : fraud .
+H-1466	-0.6809883713722229	You know what ? When I tell that , people scream at me on me . They say , &quot; What are you going to dedicate people to do what they want .
+H-1467	-0.42367082834243774	They feel great . &quot;
+H-1468	-0.1760224848985672	You know what ? You &apos;re wrong .
+H-1469	-0.43611040711402893	I don &apos;t care if the health minister says ,
+H-1470	-0.8765837550163269	&quot; Um , I &apos;m not going to accept the evidence of my experts on mammography . &quot; Or if any of you want to treat her cancer patients with metastatic cancer in coffee .
+H-1471	-0.30221498012542725	When you take the path where belief and magic replace evidence and science , you get to a place where you don &apos;t want to be .
+H-1472	-2.3352792263031006	I mean , you come up with this guy at flow from new , South Africa .
+H-1473	-1.4267927408218384	He killed 400,000 people of his citizens , pretending that he would take out , out of the ground , and olive oil were much more effective than to overestimate them that we know would slow the development of AIDS .
+H-1474	-0.32955217361450195	Hundreds of thousands of useless deaths in a country that suffered more than any other disease .
+H-1475	-0.5770030617713928	Please don &apos;t tell me that these things are without consequence .
+H-1476	-0.8461980819702148	There &apos;s still some .
+H-1477	-0.9827098250389099	The most absolutely meaningless epidemic in which we now find is this absurd battle between genetically modified and the elites of the bio .
+H-1478	-0.42125841975212097	It &apos;s an silly debate that has to stop .
+H-1479	-0.45550981163978577	It &apos;s a debate about words , about metaphors .
+H-1480	-0.631870448589325	It &apos;s ideology and not science .
+H-1481	-1.0064144134521484	All we eat , every grain of rice , every strand of frequency , every cauliflower , has been modified by humans .
+H-1482	-0.8148079514503479	There was no increase in the Garden of Eden .
+H-1483	-1.3473260402679443	You didn &apos;t have any increase in it .
+H-1484	-1.111900806427002	There was no Christmas routines . We created everything .
+H-1485	-0.5241609215736389	We &apos;ve done them in the last 11,000 years .
+H-1486	-0.6017811894416809	Sometimes successfully , sometimes not .
+H-1487	-0.47121092677116394	We got rid of what didn &apos;t work .
+H-1488	-0.4424954056739807	Now , we can be more accurate .
+H-1489	-0.25931093096733093	There are risks . Absolutely .
+H-1490	-0.4438340663909912	You can put a kind of vitamin A into rice and this thing can help millions of people extend their lives .
+H-1491	-0.26481786370277405	You don &apos;t want to do that ?
+H-1492	-0.46553561091423035	I must say , I don &apos;t understand .
+H-1493	-0.8119299411773682	We oppose genetically modified foods .
+H-1494	-0.34579578042030334	Why do we do that ?
+H-1495	-0.5828427672386169	What I often hear is this : too many chemicals , pesticides , hormones , library . We don &apos;t want giant operations of the same thing . It &apos;s bad .
+H-1496	-0.8492973446846008	We don &apos;t want firms to raise life .
+H-1497	-0.49601924419403076	We don &apos;t want any companies that have seeds .
+H-1498	-0.6590433120727539	Do you know my answer to that ?
+H-1499	-1.2724249362945557	You &apos;re right . Make the problem happen .
+H-1500	-0.5055032968521118	It &apos;s true that we have a huge food problem , but that &apos;s not science .
+H-1501	-0.5487489700317383	It &apos;s got nothing to do with science .
+H-1502	-0.3474610149860382	It &apos;s legal , morality , intellectual property .
+H-1503	-0.39868754148483276	Science is not a business .
+H-1504	-0.3510960042476654	It &apos;s not a country .
+H-1505	-0.26621851325035095	It &apos;s not even a concept ; it &apos;s a process .
+H-1506	-0.49278149008750916	Sometimes it works and sometimes it doesn &apos;t . The idea that we should not let science work because we &apos;re really , really restrictive . It &apos;s protecting millions of people from thrive .
+H-1507	-0.31210437417030334	In the next 50 years , we &apos;re going to have to produce 70 percent more food than now . 70 percent .
+H-1508	-0.41175660490989685	That &apos;s the investment in Africa for 30 years .
+H-1509	-2.000596523284912	top of all .
+H-1510	-0.3555733561515808	They need it and they don &apos;t give them .
+H-1511	-0.6192576885223389	Why ? genetically modified foods .
+H-1512	-0.6316252946853638	We don &apos;t want to encourage people to eat these things as &quot; cassava &quot; for example .
+H-1513	-0.24729600548744202	cassava is eaten by half a billion people .
+H-1514	-0.31998276710510254	It &apos;s like an potato .
+H-1515	-0.20542988181114197	It &apos;s just a bunch of calories . It sucks .
+H-1516	-0.6102244257926941	It &apos;s got no nutrients , it &apos;s got no protein . The scientists are pumping all that into it right now .
+H-1517	-0.7462590932846069	People could eat it and therefore not become blind anymore .
+H-1518	-0.5605002045631409	They would be hungry and you know what ?
+H-1519	-0.7434068918228149	That would be nice . It wouldn &apos;t be at Ideo , but it would be nice .
+H-1520	-0.48181307315826416	All I can say about it is , why do we struggle against it ?
+H-1521	-0.6181602478027344	Let &apos;s ask ourselves , why do we oppose it ?
+H-1522	-0.19612477719783783	Because we don &apos;t want to move genes ?
+H-1523	-0.4828391671180725	It &apos;s about moving genes , not chemicals .
+H-1524	-0.6022148132324219	It &apos;s not about our ridiculous passion for hormones , our urging to have bigger , better , singular foods .
+H-1525	-0.8391725420951843	It &apos;s not Rice top @-@ up , it &apos;s about keeping people alive , and it &apos;s time to understand what that means .
+H-1526	-0.17567035555839539	Because , you know what ?
+H-1527	-0.353071391582489	If we continue to act the way we do it , we will be guilty of something we don &apos;t want : high @-@ tech colonization .
+H-1528	-0.6570508480072021	You can &apos;t otherwise describe what &apos;s going on .
+H-1529	-0.6106439232826233	It &apos;s selfish , it &apos;s ugly , it &apos;s confined to us and we have to stop that .
+H-1530	-0.6187424063682556	So after that insanely fun conversation , you might say , &quot; Well , you always want to move into this ridiculous machine traveling in time ? &quot;
+H-1531	-0.4503820836544037	Absolutely . I want to .
+H-1532	-0.5377892851829529	It &apos;s stuck in the present there , but we have an extraordinary opportunity .
+H-1533	-0.48699983954429626	We can fix this machine on what we want .
+H-1534	-0.5953352451324463	You can move it wherever you want it . You &apos;re going to move it wherever you want it .
+H-1535	-0.6525868773460388	You have to have these conversations and you have to think about it , but when you climb up into the machine and you go forward , we &apos;ll be happy to do it .
+H-1536	-0.4104194641113281	I know you can . For me , this is something the world needs now .
+H-1537	-0.08888520300388336	Thank you .
+H-1538	-0.5084304809570312	Thank you . One day , the senior gift of Los Angeles Times Steve Lopez walked around the streets of the inner city of Los Angeles when he heard a beautiful music .
+H-1539	-0.8121817708015442	She was from a man , an African @-@ American , charming man , in the no @-@ shelter , who was playing on a violin that had no more than two strings .
+H-1540	-1.0933773517608643	This story , many of you know it , because the chronic part of Steve inspired a book , which was adapted to the screen , with Robert increase in Steve Lopez &apos;s role of Steve Lopez , and Jamie Fox in the head of pack Anthony , the bass from the Juilliard School , whose significant career was haunted by a tragic schizophrenia ,
+H-1541	-1.8989734649658203	state of state he had not been getting any press , and 30 years later , he was homeless in the streets of state of state state state , in the center of Los Angeles City .
+H-1542	-0.6224778294563293	I encourage all of you to read Steve &apos;s book , or to watch the movie , not just the wonderful link that created between these two men , but also how music contributed to shape this link , and was finally the instrument , if you pass on the street , which helped me get out of the street .
+H-1543	-0.8205434083938599	I met Mr. cash in 2008 a couple of years ago , to Walt Disney Hall .
+H-1544	-0.5949549674987793	He had just heard a concert of the first and fourth symphonies of Beethoven , came backstage and presented .
+H-1545	-1.1522122621536255	He was speaking in a very immersive and social way of Yo @-@ Yo @-@ Yo @-@ Yo and Hillary Clinton , reasons why the Dodgers never would have any of the Dodgers ever won &apos;t have any of the world &apos;s top set of Records in the last World Symphony Symphony Symphony movement .
+H-1546	-0.5558395385742188	And we spoke music . And I got an e @-@ mail from Steve a few days later saying I wish I &apos;d give him a violin course .
+H-1547	-1.353134036064148	Now , I should point out that he did not manage to cure himself because when he was treated , it was with shock shock , from being destroyed and taste and all his life , he suffered from that trauma .
+H-1548	-1.342453956604004	But , now , as a result , he &apos;s prone to these episodes of set @-@ up episodes .
+H-1549	-1.3480485677719116	In the worst of their demonstrations , it explodes , and then disappears for days , wandering through the streets of state polar Row , exposed to his horrors , the work of his mind being reshaped on him .
+H-1550	-1.4222463369369507	And warming was so high in such a state of top of Walt Disney Hall that there was kind of a reflection that had gone away in his eyes , it looked like it was lost .
+H-1551	-0.9325810074806213	And he was talking about invisible demons and smoke , and how somebody &apos;s getting it all over his sleep .
+H-1552	-0.76883864402771	And I was afraid , not to me , but I was afraid to lose it , that he was getting stung in one of his crises , and I &apos;m going to ruin his relationship with the violin if I started talking about other interesting kinds of violin tools .
+H-1553	-0.34343981742858887	So I just started playing .
+H-1554	-1.2512861490249634	I played the first successful motion of Beethoven &apos;s violin .
+H-1555	-1.0120675563812256	And as I was playing , I saw that a very profound change was happening in the eyes of the tracks .
+H-1556	-0.41476935148239136	It was as if it was under the grip of an invisible pharmaceutical product , a chemical reaction , including the music I played was the catalyst .
+H-1557	-1.8082900047302246	And he was taken away by the head of state by terror and turned into understanding and just kind of quiet curiosity , and because of that .
+H-1558	-1.1772801876068115	And just like a miracle , he raised his own violin , and he started playing his ear , extract from key to violin that he then asked me to supplement , set up , warming , warming .
+H-1559	-2.245443820953369	And we started talking about music , from Bach at Beethoven , of course -- all the B , all B , top @-@ up , all the way up to set up , all the way up to set up , all the way up to set up , all the way up to set up , all the way up , all the way up to set up , all the way up to set up , all the way up , all the way up to set up to rise @-@ top @-@ top @-@ top top top top .
+H-1560	-0.6989762187004089	And I understood that not only would he have an internalized knowledge of music , but he had a bond with this music , at a personal level .
+H-1561	-0.38880401849746704	He talked about it with the kind of passion and understanding that I share with my colleagues from Los Angeles Philharmonic Orchestra .
+H-1562	-0.7376478314399719	In playing music , and talking about music , this man had turned , of the man disturbed , paranoid , who was wandering in the streets of downtown in Los Angeles , in this lovely , shiny , shiny and brilliant musician from Juilliard .
+H-1563	-0.3038424551486969	Music is medicine . Music changes us .
+H-1564	-1.0677851438522339	And he was in the music that he had been mental health .
+H-1565	-1.0149732828140259	Because music allows him to take his thoughts and its delusions , and bring them back from his imagination and creativity , in reality .
+H-1566	-0.51212078332901	And it &apos;s an escape of its dysfunctional state .
+H-1567	-0.5499525666236877	And I realized that that was the very essence of art .
+H-1568	-0.3691021502017975	That &apos;s why we created music , to take something that exists in each of us , at the most fundamental level of our being , our emotions , and through our artistic filter , through our creativity , we &apos;re able to shape these emotions in reality .
+H-1569	-0.7858679294586182	And the reality of that expression reaches every single one of us , and you opens , you breathe and ties us together .
+H-1570	-0.8796053528785706	And what had happened was that he had taken him down from his friends .
+H-1571	-0.743310272693634	The intensity of music brought him back into the family of musicians who understood him , recognized his talents and respected him .
+H-1572	-1.2103790044784546	And I would always keep making music with just happened to be at Walt Disney Hall , or on reach Disney Row , because he remembers why I became a musician .
+H-1573	-0.08888520300388336	Thank you .
+H-1574	-0.16660743951797485	Thank you . Thank you .
+H-1575	-0.17483483254909515	Robert Gupta .
+H-1576	-1.5898946523666382	I want to play something that I backed up next to America , you know .
+H-1577	-0.9130566716194153	So please forgive me . A number of years ago , here in Ted , Peter new design tracks called the marshmallow test .
+H-1578	-0.3675227463245392	And the idea is pretty simple .
+H-1579	-0.41153019666671753	teams of four people have to build the highest structure holding up with 20 spaghetti , one meter of sticky tape , one meter of string , and one marshmallow .
+H-1580	-0.36104488372802734	The marshmallow has to be placed on the top .
+H-1581	-0.6404333710670471	Although it sounds really simple , it &apos;s actually rather difficult , because it forces people to collaborate fast .
+H-1582	-0.4185377061367035	I found it was an interesting idea , so I stuck it in a design shop .
+H-1583	-0.5891785621643066	And it was a great success .
+H-1584	-0.46324974298477173	Since then , I &apos;ve been running about 70 design workshops around the world with students and designers and architects , and even the Chief Officer of Fortune 50 companies , and there &apos;s something in this exercise that reveals deep lessons about the nature of collaboration , and I &apos;d like to share with you some of them .
+H-1585	-0.6276460886001587	Now , most people normally start taking their brands from task .
+H-1586	-0.6261129975318909	They &apos;re talking about it , they &apos;re looking for what it &apos;s going to look like , they &apos;re going to tear up for power , and then they spend a little bit of time planning , to organize .
+H-1587	-0.7499427795410156	They make sketches and they have spaghetti . They spend most of their time putting the stick sticks together into bigger and bigger structures , and then , at the end , just when the deadline comes closer , somebody gets into the marshmallow , and putting it to the top , and then they park , and then get laid ,
+H-1588	-0.4012536108493805	They look at their work .
+H-1589	-0.7757140398025513	But in fact , what happens , most of the time , is that the &quot; top @-@ club &quot; ends in &quot; oh @-@ oh , &quot; because the weight of the marshmallow makes the whole structure twists and falling down .
+H-1590	-0.6202859282493591	There are a number of participants who have much more &quot; oh @-@ oh &quot; than others , and some of the worst , young graduates of business schools .
+H-1591	-0.7791789770126343	They lie , they cheat , they are distracted , and the structures that they produce are really strengthened .
+H-1592	-0.932469367980957	And of course , there are teams producing many more structures , &quot; your V @-@ Mart , &quot; and , of course , top kids in kindergarten .
+H-1593	-0.43403130769729614	And it &apos;s really amazing .
+H-1594	-0.28979653120040894	As Peter says , not only do they produce the highest structures , but they &apos;re also the most interesting structures .
+H-1595	-0.6237330436706543	So the question we ask is : How come this happen ? Why is this ? What is special ?
+H-1596	-1.427724003791809	Peter likes to say this : &quot; None of the children have spent one minute trying to become the head of &quot; top @-@ up &quot; --
+H-1597	-0.7973668575286865	They don &apos;t spend their time on the side of the power .
+H-1598	-0.45360681414604187	But there &apos;s also another reason .
+H-1599	-0.5058566927909851	It &apos;s that business school students are trained to find the only plan that will work .
+H-1600	-0.7102363705635071	And then implement it .
+H-1601	-0.4818889796733856	And then what happens when they ask the marshmallow on the top , they don &apos;t have any time left , and then ?
+H-1602	-0.26200583577156067	That &apos;s the crisis .
+H-1603	-0.3741649389266968	Does this sound familiar ? Good .
+H-1604	-0.5414791107177734	What the kindergarten teams do differently is they start with the marshmallow , and build prototypes , prototypes , keep the marshmallow on the top , and have many opportunities to repair the prototypes in difficulty .
+H-1605	-0.7464566230773926	Designers recognize this kind of cooperation as the essential basis of hands @-@ on .
+H-1606	-0.7225520014762878	With each version , children have instant information feedback about what &apos;s going on or not .
+H-1607	-0.28271913528442383	So , the ability to work with prototypes is essential , but let &apos;s see what the results of different teams are .
+H-1608	-0.43825215101242065	The average for most people is 50 centimeters , for school students , about half , lawyers , a little better , but not very much , and for kindergarten , better than most adults .
+H-1609	-0.6641986966133118	Who is really the best ?
+H-1610	-0.2228056937456131	Architects and engineers , fortunately !
+H-1611	-0.5350075960159302	One meter is the highest structure I saw .
+H-1612	-0.3977361023426056	And why is that ? Because they understand that triangles and self @-@ geometrical patterns carry the key to building stable structures .
+H-1613	-0.5722754597663879	The technical directors , so , do a little better than the average .
+H-1614	-0.3377515971660614	But this is where it gets interesting .
+H-1615	-0.5491911768913269	If you add a administration to the team , the results go up significantly .
+H-1616	-0.5125256776809692	It &apos;s amazing . You know , you look around , and you say , &quot; Oh , it &apos;s raise team that &apos;s going to win . &quot;
+H-1617	-0.5824653506278992	We can say it ahead . And why ?
+H-1618	-1.0251425504684448	Because they have these special motor skills .
+H-1619	-0.3892669975757599	They deal with the process , they understand the process .
+H-1620	-0.7812742590904236	And any team that manages and follows with great attention will further enhance the performance .
+H-1621	-0.9987599849700928	specialized skills and tooth skills , their combination leads to success .
+H-1622	-0.4549378752708435	If you have 10 teams running , about six , perhaps , realized a structure that stands up .
+H-1623	-0.41222724318504333	And I tried something interesting .
+H-1624	-0.4122678339481354	I thought , &quot; This time , get the stakes . &quot;
+H-1625	-0.5315187573432922	So I offered a price of 10,000 dollars value on software to the winning team .
+H-1626	-0.18508431315422058	And what do you think happened to these design students ?
+H-1627	-0.3117789924144745	What was the result ?
+H-1628	-0.44930633902549744	This is what happened .
+H-1629	-0.6826149821281433	Not a single team had no structure holding up .
+H-1630	-0.42626750469207764	If only one had built , say , a three @-@ inch structure , they would have brought the price back home .
+H-1631	-0.637606680393219	So , isn &apos;t it interesting , that big stakes have a strong impact ?
+H-1632	-0.35595014691352844	We did the exercise with the same students .
+H-1633	-0.305343896150589	What do you think happened then ?
+H-1634	-0.5626128315925598	Here they understood the importance of prototyping .
+H-1635	-0.2793644070625305	And the same team went from the worst group to the best .
+H-1636	-0.5198639631271362	They &apos;ve made the highest structure in the short time .
+H-1637	-0.3543144762516022	There are great lessons for us , about the nature of motivations and success .
+H-1638	-1.3226468563079834	So , you might wonder , &quot; Why is it possible for anyone to spend a time organizing &quot; top @-@ up &quot; ?
+H-1639	-0.5755813121795654	The reason is that I &apos;m helping create digital tools and processes that help teams make automobile games and video games and special effects .
+H-1640	-1.008548617362976	And what &apos;s doing is she &apos;s getting them set up to identify hidden biases .
+H-1641	-0.24546536803245544	Because , frankly , every project has its own marshmallow marshmallow , right ?
+H-1642	-0.428941935300827	And competition provides a shared experience , a common language , a common attitude to build the &quot; good prototype . &quot;
+H-1643	-0.5082883834838867	And that is the value of this experience , of this such a simple exercise .
+H-1644	-1.3678086996078491	And those are the people who care can go to more warming .
+H-1645	-1.6415265798568726	This is a blog that you can consult about the way you drive &quot; top of the set . &quot;
+H-1646	-0.49591007828712463	There are no instructions .
+H-1647	-0.314632385969162	There are crazy examples from all over the world , of how people twist and adjust the system .
+H-1648	-0.4124454855918884	There &apos;s also the records of the world .
+H-1649	-0.2904856204986572	And the fundamental lesson , I think , is that design is truly a contact sport .
+H-1650	-0.5720293521881104	It requires that we will all change our senses to the task , and we will apply the best of our thinking , our feeling and our application to the challenge we have in front of us .
+H-1651	-0.7018580436706543	And , sometimes a little prototype of this experiment will be the only thing that will enable us to do one &quot; Uh @-@ oh @-@ oh &quot; -- one of your --
+H-1652	-0.46152547001838684	And that can make a huge difference .
+H-1653	-0.15563331544399261	Thank you very much .

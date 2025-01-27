@@ -1,3 +1,5 @@
 subword-nmt/
 mosesdecoder/
 fairseq/
+dataset/
+checkpoints/
