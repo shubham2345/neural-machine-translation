@@ -60,20 +60,28 @@ We use `processing.py` for dataset preparation. The script includes a `--bpe` fl
 | CNN | `cnn_train_partb.sh` | `outputs/cnn_output_partb.txt` |
 
 ---
+# 🚀 Part C: Model Improvements
 
-## 🚧 Part C: Work In Progress
-Scripts for **Part C** are still being developed and will be submitted before the final deadline. If you have any suggestions, please review the following scripts and provide feedback:
+This section focuses on enhancing the translation performance of our models by exploring various architectural and hyperparameter modifications.
+
+## ✅ Completed Experiments
+The following scripts were used for training and evaluation:
 
 - **Transformer:** `transformer_train_partc.sh`
 - **CNN:** `cnn_train_partc.sh`
 
----
+### 🔧 Modifications Implemented:
+- Shared source and target embeddings in the Transformer model.
+- Tuned the number of layers and dropout rates.
+- Adjusted Byte Pair Encoding (BPE) operations and applied BPE dropout.
 
 ## 📌 Notes
 - `data-bin/fr-en/` is created with **BPE applied**.
 - `data-bin/fr-en-no-bpe/` is created **without BPE**.
-- **Fairseq is used for model training**.
+- **Fairseq was used for model training.**
 - The dataset consists of TED talk transcripts and manual translations.
+
+Further analysis and discussion can be found in the final report.
 
 ---
 
@@ -88,17 +96,12 @@ fairseq-generate data-bin/fr-en \
     --scoring sacrebleu
 ```
 
-- **Baseline Transformer BLEU Score:** `37.25`
+- **Baseline Transformer BLEU Score:** `31.25`
 - **Baseline CNN BLEU Score:** `30.67`
 - **Part B (No BPE) Transformer BLEU Score:** `35.76`
 - **Part B (No BPE) CNN BLEU Score:** `30.68`
-
+- **Part C (Tuned) Transformer BLEU Score:** `35.74`
+- **Part B (Tuned) CNN BLEU Score:** `25.68`
 ---
-
-## 📌 Future Work
-
-- Experiment with different Transformer architectures.
-- Tune hyperparameters (dropout, learning rate, layers).
-- Optimize BPE settings for better translation quality.
 
 
