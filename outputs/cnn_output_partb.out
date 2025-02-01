@@ -8238,4 +8238,4 @@ T-663	Now , the exact amount of how you map from a certain increase of CO2 to wh
 H-663	-1.4283932447433472	It &apos;s true that on the numbers , what temperature we will be , from what CO2 increase , and what we will be positive effects , there , you have a certain uncertainty , but not a lot .
 D-663	-1.4283932447433472	It &apos;s true that on the numbers , what temperature we will be , from what CO2 increase , and what we will be positive effects , there , you have a certain uncertainty , but not a lot .
 P-663	-1.7239 -0.2329 -0.4144 -0.8037 -1.3472 -0.6162 -3.8112 -2.1984 -2.0337 -1.0985 -2.0105 -1.4320 -2.5606 -0.7002 -1.0965 -1.7874 -1.9379 -1.0421 -0.4353 -0.2950 -1.5992 -3.7997 -1.8076 -2.2509 -3.0297 -1.0782 -0.7936 -1.6038 -1.1890 -2.0129 -3.8190 -0.8332 -2.2727 -1.9337 -0.2329 -0.1662 -0.7616 -0.7947 -0.1152 -0.7335 -0.1595
-Generate test with beam=5: BLEU = 27.68 54.8/33.1/21.9/14.8 (BP = 1.000 ratio = 1.103 hyp_len = 39166 ref_len = 35496)
+Generate test with beam=5: BLEU = 30.68 54.8/33.1/21.9/14.8 (BP = 1.000 ratio = 1.103 hyp_len = 39166 ref_len = 35496)

@@ -34,28 +34,78 @@ fairseq-preprocess --source-lang fr --target-lang en \
     --joined-dictionary 
 
 # Train Fairseq Transformer with BPE-experimented dataset
-CUDA_VISIBLE_DEVICES=0,1,2,3,4,5 fairseq-train \
+# CUDA_VISIBLE_DEVICES=0,1,2,3,4,5 fairseq-train \
+#     $DATA_BIN \
+#     --source-lang fr --target-lang en \
+#     --arch transformer --share-all-embeddings \
+#     --encoder-layers 8 --decoder-layers 8 \
+#     --encoder-embed-dim 512 --decoder-embed-dim 512 \
+#     --encoder-ffn-embed-dim 2048 --decoder-ffn-embed-dim 2048 \
+#     --optimizer adam --adam-betas '(0.9, 0.98)' --clip-norm 0.5 \
+#     --lr 2e-4 --lr-scheduler inverse_sqrt --warmup-updates 8000 \
+#     --dropout 0.4 --attention-dropout 0.2 \
+#     --weight-decay 0.0001 \
+#     --criterion label_smoothed_cross_entropy --label-smoothing 0.05 \
+#     --max-tokens 4096 \
+#     --eval-bleu \
+#     --eval-bleu-args '{"beam": 10, "max_len_a": 1.2, "max_len_b": 10}' \
+#     --eval-bleu-detok moses \
+#     --eval-bleu-remove-bpe \
+#     --eval-bleu-print-samples \
+#     --max-epoch 35 \
+#     --best-checkpoint-metric bleu --maximize-best-checkpoint-metric \
+#     --save-dir $SAVE_DIR
+
+
+CUDA_VISIBLE_DEVICES=2,3,5 fairseq-train \
     $DATA_BIN \
     --source-lang fr --target-lang en \
-    --arch transformer --share-all-embeddings \
-    --encoder-layers 8 --decoder-layers 8 \
-    --encoder-embed-dim 512 --decoder-embed-dim 512 \
-    --encoder-ffn-embed-dim 2048 --decoder-ffn-embed-dim 2048 \
-    --optimizer adam --adam-betas '(0.9, 0.98)' --clip-norm 0.5 \
-    --lr 2e-4 --lr-scheduler inverse_sqrt --warmup-updates 8000 \
-    --dropout 0.4 --attention-dropout 0.2 \
-    --weight-decay 0.0001 \
-    --criterion label_smoothed_cross_entropy --label-smoothing 0.05 \
+    --arch transformer --share-decoder-input-output-embed \
+    --optimizer adam --adam-betas '(0.9, 0.98)' --clip-norm 0.0 \
+    --lr 5e-4 --lr-scheduler inverse_sqrt --warmup-updates 4000 \
+    --dropout 0.3 --weight-decay 0.0001 \
+    --criterion label_smoothed_cross_entropy --label-smoothing 0.1 \
     --max-tokens 4096 \
     --eval-bleu \
-    --eval-bleu-args '{"beam": 10, "max_len_a": 1.2, "max_len_b": 10}' \
+    --eval-bleu-args '{"beam": 5, "max_len_a": 1.2, "max_len_b": 10}' \
     --eval-bleu-detok moses \
     --eval-bleu-remove-bpe \
     --eval-bleu-print-samples \
-    --max-epoch 35 \
+    --max-epoch 40 --batch-size 5000 \
+    --encoder-embed-dim 1024 \
+    --decoder-embed-dim 1024 \
+    --decoder-layers 4 \
+    --encoder-layers 4 \
+    --activation-dropout 0.1 \
+    --attention-dropout 0.1 \
     --best-checkpoint-metric bleu --maximize-best-checkpoint-metric \
     --save-dir $SAVE_DIR
 
+# CUDA_VISIBLE_DEVICES=0,1,2,3,4,5 fairseq-train \
+#     $DATA_BIN \
+#     --source-lang fr --target-lang en \
+#     --arch transformer --share-decoder-input-output-embed \
+#     --encoder-layers 6 \
+#     --decoder-layers 6 \
+#     --encoder-embed-dim 1024 \
+#     --decoder-embed-dim 1024 \
+#     --encoder-ffn-embed-dim 4096 \
+#     --decoder-ffn-embed-dim 4096 \
+#     --optimizer adam --adam-betas '(0.9, 0.98)' --clip-norm 0.1 \
+#     --lr 7e-4 --lr-scheduler inverse_sqrt --warmup-updates 8000 \
+#     --dropout 0.4 --attention-dropout 0.2 --activation-dropout 0.2 \
+#     --weight-decay 0.0001 \
+#     --criterion label_smoothed_cross_entropy --label-smoothing 0.2 \
+#     --max-tokens 8192 \
+#     --eval-bleu \
+#     --eval-bleu-args '{"beam": 10, "max_len_a": 1.3, "max_len_b": 15}' \
+#     --eval-bleu-detok moses \
+#     --eval-bleu-remove-bpe \
+#     --eval-bleu-print-samples \
+#     --max-epoch 40 --batch-size 8192 \
+#     --best-checkpoint-metric bleu --maximize-best-checkpoint-metric \
+#     --save-dir $SAVE_DIR
+    
 # Generate translations on the test set
 fairseq-generate $DATA_BIN \
     --path $SAVE_DIR/checkpoint_best.pt \
